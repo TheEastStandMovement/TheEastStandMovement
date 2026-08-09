@@ -1,34 +1,49 @@
 {
- "collected": "2026-08-09T07:42+00:00",
+ "collected": "2026-08-09T18:21+00:00",
  "items": [
   {
-   "headline": "Youri Tielemans joins Manchester United from Aston Villa",
-   "summary": "United activated Tielemans' release clause to sign the midfielder on a five-year contract. The Belgian player was acquired to strengthen the midfield.",
-   "source": "TeamTalk",
-   "url": "https://www.teamtalk.com/manchester-united/every-completed-man-utd-transfer-summer-2026-signings-exits-loans",
-   "published": "08 Aug",
-   "category": "transfers",
+   "headline": "United draw with PSG 1-1 in pre-season friendly",
+   "summary": "Manchester United drew 1-1 with Paris Saint-Germain in a pre-season fixture in Gothenburg.",
+   "source": "Manchester United official",
+   "url": "https://www.manutd.com/en/news",
+   "published": "Aug 8",
+   "category": "match",
+   "tone": 0,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 1,
+   "people": [
+    "Michael Carrick"
+   ]
+  },
+  {
+   "headline": "Tielemans makes first United appearance",
+   "summary": "Youri Tielemans featured in his first match for Manchester United in the pre-season fixture against PSG.",
+   "source": "Manchester United official",
+   "url": "https://www.manutd.com/en/news",
+   "published": "Aug 8",
+   "category": "team news",
    "tone": 1,
    "is_rumour": false,
    "rumour_subject": "",
-   "source_tier": 3,
+   "source_tier": 1,
    "people": [
     "Youri Tielemans"
    ]
   },
   {
-   "headline": "Rasmus Hojlund departs for Napoli on permanent deal",
-   "summary": "Striker Rasmus Hojlund completed permanent transfer to Napoli. The deal closed during summer 2026 window.",
-   "source": "GiveMeSport",
-   "url": "https://www.givemesport.com/man-utd-transfers-2026-27/",
-   "published": "29 Jun",
-   "category": "transfers",
-   "tone": -1,
+   "headline": "Andrey Santos settles as Manchester is his home",
+   "summary": "Andrey Santos expresses that Manchester is now his home following his move from Chelsea to United.",
+   "source": "Manchester United official",
+   "url": "https://www.manutd.com/en/news",
+   "published": "Aug 8",
+   "category": "team news",
+   "tone": 1,
    "is_rumour": false,
    "rumour_subject": "",
-   "source_tier": 3,
+   "source_tier": 1,
    "people": [
-    "Rasmus Hojlund"
+    "Andrey Santos"
    ]
   }
  ]
