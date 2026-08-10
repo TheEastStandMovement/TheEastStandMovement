@@ -29,7 +29,7 @@
   "last_seen": "2026-08-04",
   "mentions": 4,
   "best_tier": 3,
-  "temperature": 0.8,
+  "temperature": 0.4,
   "sources": [
    "ESPN",
    "Sports Mole",
@@ -106,7 +106,7 @@
   "last_seen": "2026-08-02",
   "mentions": 1,
   "best_tier": 3,
-  "temperature": 0.1,
+  "temperature": 0.0,
   "sources": [
    "Last Word on Sports"
   ],

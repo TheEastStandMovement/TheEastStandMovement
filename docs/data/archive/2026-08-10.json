@@ -1,12 +1,12 @@
 {
- "collected": "2026-08-10T08:20+00:00",
+ "collected": "2026-08-10T18:39+00:00",
  "items": [
   {
-   "headline": "Manchester United draw with PSG in pre-season friendly",
-   "summary": "United drew 1-1 with Paris Saint-Germain in a pre-season friendly in Gothenburg. Manager Michael Carrick identified good signs despite the result.",
-   "source": "Manchester United official",
+   "headline": "Manchester United draw 1-1 with PSG in pre-season friendly in Gothenburg",
+   "summary": "United played PSG in a pre-season fixture on August 8, 2026, ending in a 1-1 draw as part of their pre-season preparations.",
+   "source": "Manchester United",
    "url": "https://www.manutd.com/en",
-   "published": "08 Aug",
+   "published": "8 Aug",
    "category": "match",
    "tone": 0,
    "is_rumour": false,
@@ -17,26 +17,11 @@
    ]
   },
   {
-   "headline": "Youri Tielemans makes first Manchester United appearance",
-   "summary": "Summer signing Youri Tielemans made his debut for Manchester United after being signed from Aston Villa via release clause on a five-year contract.",
-   "source": "Manchester United official",
+   "headline": "Andrey Santos confident in stepping into Casemiro's role as Manchester United number six",
+   "summary": "Brazil midfielder Andrey Santos, signed for £48m from Chelsea, says he is ready to replace Casemiro as United's number six.",
+   "source": "Manchester United",
    "url": "https://www.manutd.com/en",
-   "published": "08 Aug",
-   "category": "team news",
-   "tone": 2,
-   "is_rumour": false,
-   "rumour_subject": "",
-   "source_tier": 1,
-   "people": [
-    "Youri Tielemans"
-   ]
-  },
-  {
-   "headline": "Andrey Santos confident of Casemiro replacement role",
-   "summary": "Summer signing Andrey Santos, who joined from Chelsea for £48m, expressed confidence in stepping into Casemiro's number six role at Manchester United.",
-   "source": "Manchester United official",
-   "url": "https://www.manutd.com/en",
-   "published": "09 Aug",
+   "published": "8 Aug",
    "category": "team news",
    "tone": 1,
    "is_rumour": false,
@@ -45,6 +30,51 @@
    "people": [
     "Andrey Santos",
     "Casemiro"
+   ]
+  },
+  {
+   "headline": "Marcus Rashford assigned new shirt number following return from Spain loan",
+   "summary": "Marcus Rashford has received a new shirt number at United following his return from a loan spell in Spain, signalling his reintegration into the first team.",
+   "source": "Yahoo Sports",
+   "url": "https://sports.yahoo.com/soccer/teams/man-utd/",
+   "published": "9 Aug",
+   "category": "team news",
+   "tone": 1,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 3,
+   "people": [
+    "Marcus Rashford"
+   ]
+  },
+  {
+   "headline": "Radek Vitek completes transfer to Middlesbrough from Manchester United",
+   "summary": "Goalkeeper Radek Vitek has completed a move away from Manchester United to join Middlesbrough.",
+   "source": "Bleacher Report",
+   "url": "https://bleacherreport.com/manchester-united",
+   "published": "10 Aug",
+   "category": "transfers",
+   "tone": -1,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 3,
+   "people": [
+    "Radek Vitek"
+   ]
+  },
+  {
+   "headline": "United head to Ireland training camp following PSG friendly",
+   "summary": "Manchester United departed for a pre-season training camp in Ireland after their match against PSG in Sweden.",
+   "source": "Manchester United",
+   "url": "https://www.manutd.com/en",
+   "published": "9 Aug",
+   "category": "team news",
+   "tone": 0,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 1,
+   "people": [
+    "Michael Carrick"
    ]
   }
  ]
