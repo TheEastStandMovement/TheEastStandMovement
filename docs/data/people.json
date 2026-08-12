@@ -1,6 +1,6 @@
 {
  "window_days": 30,
- "updated": "2026-08-11",
+ "updated": "2026-08-12",
  "board": [
   {
    "name": "Benjamin Sesko",
@@ -38,6 +38,11 @@
    "last": "2026-08-03"
   },
   {
+   "name": "Radek Vitek",
+   "count": 3,
+   "last": "2026-08-12"
+  },
+  {
    "name": "Rasmus Hojlund",
    "count": 3,
    "last": "2026-08-09"
@@ -71,11 +76,6 @@
    "name": "Karl Darlow",
    "count": 2,
    "last": "2026-08-02"
-  },
-  {
-   "name": "Leny Yoro",
-   "count": 2,
-   "last": "2026-08-03"
   }
  ]
 }
