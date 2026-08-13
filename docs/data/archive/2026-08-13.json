@@ -1,26 +1,24 @@
 {
- "collected": "2026-08-13T08:09+00:00",
+ "collected": "2026-08-13T18:44+00:00",
  "items": [
   {
-   "headline": "Man Utd beat Leeds 5-4 on penalties in pre-season friendly at Croke Park",
-   "summary": "United drew 1-1 with Leeds in Dublin friendly, winning 5-4 on penalties. Match featured pitch invaders attempting selfies at the end.",
-   "source": "BBC Sport",
-   "url": "",
+   "headline": "Man Utd beat Leeds on penalties in Croke Park friendly",
+   "summary": "United drew 1-1 with Leeds in a pre-season friendly and won 5-4 on penalties at Croke Park, Dublin.",
+   "source": "Manchester United Official",
+   "url": "https://www.manutd.com",
    "published": "12 Aug",
    "category": "match",
    "tone": 1,
    "is_rumour": false,
    "rumour_subject": "",
-   "source_tier": 3,
-   "people": [
-    "Michael Carrick"
-   ]
+   "source_tier": 1,
+   "people": []
   },
   {
-   "headline": "Radek Vitek completes move from Man Utd to Middlesbrough for £7m",
-   "summary": "Goalkeeper Radek Vitek has joined Middlesbrough from Manchester United. Deal worth initial £7m, rising to £14m with performance clauses.",
+   "headline": "Radek Vitek joins Middlesbrough from Manchester United",
+   "summary": "Academy goalkeeper Radek Vitek completed a move to Middlesbrough for £7m initial fee, rising to £14m with performance clauses.",
    "source": "Bleacher Report",
-   "url": "",
+   "url": "https://bleacherreport.com/manchester-united",
    "published": "12 Aug",
    "category": "transfers",
    "tone": -1,
@@ -29,36 +27,6 @@
    "source_tier": 3,
    "people": [
     "Radek Vitek"
-   ]
-  },
-  {
-   "headline": "Carrick says trio will be available for Milan clash",
-   "summary": "Michael Carrick hopes three players will be available for upcoming match against AC Milan. Team news ahead of next fixture.",
-   "source": "Manchester United Official Site",
-   "url": "",
-   "published": "13 Aug",
-   "category": "team news",
-   "tone": 0,
-   "is_rumour": false,
-   "rumour_subject": "",
-   "source_tier": 1,
-   "people": [
-    "Michael Carrick"
-   ]
-  },
-  {
-   "headline": "Martinez returns from summer break to rejoin squad",
-   "summary": "Lisandro Martinez has returned from summer break and rejoined Manchester United's squad for pre-season preparations.",
-   "source": "Manchester United Official Site",
-   "url": "",
-   "published": "11 Aug",
-   "category": "team news",
-   "tone": 1,
-   "is_rumour": false,
-   "rumour_subject": "",
-   "source_tier": 1,
-   "people": [
-    "Lisandro Martínez"
    ]
   }
  ]
