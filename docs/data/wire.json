@@ -1,27 +1,26 @@
 {
- "collected": "2026-08-14T08:05+00:00",
+ "collected": "2026-08-14T18:37+00:00",
  "items": [
   {
-   "headline": "Manchester United beat Leeds 5-4 on penalties after 1-1 draw at Croke Park",
-   "summary": "Man United drew 1-1 with Leeds United in a pre-season friendly at Croke Park, Dublin, winning 5-4 on penalties. Joshua Zirkzee scored; Marcus Rashford was absent.",
-   "source": "Manchester United",
+   "headline": "United beat Leeds 5-4 on penalties in Dublin friendly",
+   "summary": "Manchester United defeated Leeds United 1-1 after extra time, winning 5-4 on penalties at Croke Park. Joshua Zirkzee scored.",
+   "source": "Manchester United Official",
    "url": "https://www.manutd.com/en/news",
    "published": "13 Aug",
    "category": "match",
-   "tone": 1,
+   "tone": 2,
    "is_rumour": false,
    "rumour_subject": "",
    "source_tier": 1,
    "people": [
     "Joshua Zirkzee",
-    "Marcus Rashford",
     "Michael Carrick"
    ]
   },
   {
-   "headline": "Michael Carrick hopes trio will be available for Milan",
-   "summary": "Carrick indicated three players may be unavailable for the upcoming friendly against Milan, with hopes they could return.",
-   "source": "Manchester United",
+   "headline": "Carrick hopes three players available for AC Milan friendly",
+   "summary": "Michael Carrick expressed hope that three unavailable players would be fit for the upcoming friendly against AC Milan.",
+   "source": "Manchester United Official",
    "url": "https://www.manutd.com/en/news",
    "published": "12 Aug",
    "category": "team news",
@@ -31,6 +30,21 @@
    "source_tier": 1,
    "people": [
     "Michael Carrick"
+   ]
+  },
+  {
+   "headline": "Marcus Rashford included in 26-man squad for AC Milan friendly",
+   "summary": "Marcus Rashford returns to the squad for United's friendly against AC Milan in Wrocław.",
+   "source": "Manchester United Official",
+   "url": "https://www.manutd.com/en/news",
+   "published": "14 Aug",
+   "category": "team news",
+   "tone": 1,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 1,
+   "people": [
+    "Marcus Rashford"
    ]
   }
  ]
