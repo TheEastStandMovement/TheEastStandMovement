@@ -1,14 +1,14 @@
 {
- "collected": "2026-08-15T07:20+00:00",
+ "collected": "2026-08-15T18:10+00:00",
  "items": [
   {
-   "headline": "Man Utd beat Leeds 5-4 on penalties after 1-1 draw at Croke Park",
-   "summary": "Manchester United defeated Leeds United on penalty kicks after a 1-1 draw in Dublin friendly, with Joshua Zirkzee scoring during regular play.",
+   "headline": "Manchester United beat Leeds 5-4 on penalties in pre-season friendly",
+   "summary": "United drew 1-1 with Leeds at Croke Park in Dublin, winning 5-4 on penalties. Joshua Zirkzee scored in the match.",
    "source": "Manchester United Official",
    "url": "https://www.manutd.com/en",
-   "published": "13 Aug",
+   "published": "12 Aug",
    "category": "match",
-   "tone": 1,
+   "tone": 2,
    "is_rumour": false,
    "rumour_subject": "",
    "source_tier": 1,
@@ -17,65 +17,33 @@
    ]
   },
   {
-   "headline": "Rashford in 26-man squad for AC Milan friendly after return from Barcelona loan",
-   "summary": "Marcus Rashford named in Manchester United squad for pre-season friendly against AC Milan on Aug 15, marking first appearance since December 2024.",
-   "source": "Manchester United Official",
-   "url": "https://www.manutd.com/en",
-   "published": "14 Aug",
-   "category": "team news",
-   "tone": 1,
-   "is_rumour": false,
-   "rumour_subject": "",
-   "source_tier": 1,
-   "people": [
-    "Marcus Rashford"
-   ]
-  },
-  {
-   "headline": "Sesko misses entire pre-season with shin injury",
-   "summary": "Benjamin Sesko remains sidelined with shin injury throughout pre-season, with United hopeful he'll be fit for Hull City opener on August 22.",
-   "source": "Sports Mole",
-   "url": "https://www.sportsmole.co.uk/football/man-utd/injury-news/news/rashford-sesko-decisions-are-made-as-man-utd-confirm-squad-for-milan-fixture_603011.html",
-   "published": "14 Aug",
-   "category": "team news",
-   "tone": -1,
-   "is_rumour": false,
-   "rumour_subject": "",
-   "source_tier": 3,
-   "people": [
-    "Benjamin Sesko"
-   ]
-  },
-  {
-   "headline": "Tielemans praises Rashford's return as tactical asset for Carrick",
-   "summary": "Youri Tielemans backs Marcus Rashford's reintegration into squad, calling his return an advantage ahead of Premier League season.",
-   "source": "Roundtable",
-   "url": "https://roundtable.io/sports/soccer/premier-league/manchester-united/news/maguire-sesko-mount-man-utd-injury-news-vs-ac-milan-six-players-return-pre-season",
-   "published": "14 Aug",
-   "category": "team news",
-   "tone": 1,
-   "is_rumour": false,
-   "rumour_subject": "",
-   "source_tier": 3,
-   "people": [
-    "Youri Tielemans",
-    "Marcus Rashford",
-    "Michael Carrick"
-   ]
-  },
-  {
-   "headline": "Mount expected to return for AC Milan friendly after PSG injury",
-   "summary": "Mason Mount missed Leeds friendly but will likely be available for AC Milan match, with foot injury from PSG not a concern.",
-   "source": "Roundtable",
-   "url": "https://roundtable.io/sports/soccer/premier-league/manchester-united/news/maguire-sesko-mount-man-utd-injury-news-vs-ac-milan-six-players-return-pre-season",
-   "published": "14 Aug",
-   "category": "team news",
+   "headline": "Carrick: Manchester United want and need more signings before window closes",
+   "summary": "Michael Carrick says United must complete additional transfers before September 1. Club has signed Santos, Tielemans, and Darlow so far.",
+   "source": "Sky Sports",
+   "url": "https://www.skysports.com/football/news/11095/13572595/man-utd-transfer-news-michael-carrick-says-he-wants-and-needs-more-signings-before-the-end-of-the-summer-window",
+   "published": "13 Aug",
+   "category": "transfers",
    "tone": 0,
    "is_rumour": false,
    "rumour_subject": "",
    "source_tier": 3,
    "people": [
-    "Mason Mount"
+    "Michael Carrick"
+   ]
+  },
+  {
+   "headline": "Marcus Rashford named in 26-man squad for AC Milan friendly",
+   "summary": "Rashford included in squad for final pre-season match after loan spell in La Liga. Set to make first appearance since December 2024.",
+   "source": "Yahoo Sports / BBC",
+   "url": "",
+   "published": "14 Aug",
+   "category": "team news",
+   "tone": 1,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 3,
+   "people": [
+    "Marcus Rashford"
    ]
   }
  ]
