@@ -1,34 +1,78 @@
 {
- "collected": "2026-08-16T07:21+00:00",
+ "collected": "2026-08-16T18:10+00:00",
  "items": [
   {
-   "headline": "Carrick wants more signings before September 1 deadline",
-   "summary": "Manchester United head coach Michael Carrick says the club 'want' and 'need' more transfer business before summer window closes, having signed Santos, Tielemans, and Darlow.",
-   "source": "Sky Sports",
-   "url": "https://www.skysports.com/football/news/11095/13572595/man-utd-transfer-news-michael-carrick-says-he-wants-and-needs-more-signings-before-the-end-of-the-summer-window",
-   "published": "13 Aug",
-   "category": "transfers",
+   "headline": "Manchester United beat AC Milan 4-2 in pre-season friendly",
+   "summary": "United lost to AC Milan 4-2 in a pre-season friendly match in Wrocław on August 15.",
+   "source": "Manchester United (Official)",
+   "url": "https://www.manutd.com/en/news",
+   "published": "15 Aug",
+   "category": "match",
+   "tone": -1,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 1,
+   "people": []
+  },
+  {
+   "headline": "Marcus Rashford returns from injury in pre-season action",
+   "summary": "Rashford made his first appearance in 20 months during the AC Milan friendly after extended absence.",
+   "source": "The Independent",
+   "url": "",
+   "published": "15 Aug",
+   "category": "team news",
    "tone": 0,
    "is_rumour": false,
    "rumour_subject": "",
    "source_tier": 3,
    "people": [
-    "Michael Carrick"
+    "Marcus Rashford"
    ]
   },
   {
-   "headline": "Manchester United beat Leeds United 5-4 on penalties in friendly",
-   "summary": "United drew 1-1 with Leeds at Croke Park in Dublin before winning the penalty shootout 5-4. Joshua Zirkzee scored in regulation.",
-   "source": "Official Manchester United",
-   "url": "https://www.manutd.com/en",
+   "headline": "Lisandro Martinez returns from summer break",
+   "summary": "Martinez has returned from his summer holiday as United prepare for the competitive season.",
+   "source": "Manchester United (Official)",
+   "url": "https://www.manutd.com/en/news",
    "published": "13 Aug",
-   "category": "match",
-   "tone": 2,
+   "category": "team news",
+   "tone": 0,
    "is_rumour": false,
    "rumour_subject": "",
    "source_tier": 1,
    "people": [
-    "Joshua Zirkzee"
+    "Lisandro Martinez"
+   ]
+  },
+  {
+   "headline": "Evans influenced Tielemans signing decision",
+   "summary": "Evans played a role in United's decision to pursue the signing of Tielemans during pre-season.",
+   "source": "Manchester United (Official)",
+   "url": "https://www.manutd.com/en/news",
+   "published": "13 Aug",
+   "category": "transfers",
+   "tone": 0,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 1,
+   "people": [
+    "Jonny Evans",
+    "Youri Tielemans"
+   ]
+  },
+  {
+   "headline": "Carrick confident pre-season preparations on track",
+   "summary": "Manager Michael Carrick says United's pre-season programme is progressing as planned ahead of the season.",
+   "source": "Manchester United (Official)",
+   "url": "https://www.manutd.com/en/news",
+   "published": "13 Aug",
+   "category": "team news",
+   "tone": 1,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 1,
+   "people": [
+    "Michael Carrick"
    ]
   }
  ]
