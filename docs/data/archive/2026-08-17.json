@@ -1,34 +1,83 @@
 {
- "collected": "2026-08-17T07:41+00:00",
+ "collected": "2026-08-17T18:19+00:00",
  "items": [
   {
-   "headline": "Manchester United beat Leeds 5-4 on penalties in pre-season friendly",
-   "summary": "United drew 1-1 with Leeds at Croke Park in Dublin, winning 5-4 on penalties. Joshua Zirkzee scored; Marcus Rashford absent.",
-   "source": "Manchester United Official",
-   "url": "https://www.manutd.com/en/news",
+   "headline": "Carrick says United need more signings before window closes September 1",
+   "summary": "Michael Carrick confirms Manchester United want and need additional transfers after signing Santos, Tielemans, and Darlow.",
+   "source": "Sky Sports",
+   "url": "https://www.skysports.com/football/news/11095/13572595/man-utd-transfer-news-michael-carrick-says-he-wants-and-needs-more-signings-before-the-end-of-the-summer-window",
    "published": "13 Aug",
-   "category": "match",
-   "tone": 2,
+   "category": "transfers",
+   "tone": 0,
    "is_rumour": false,
    "rumour_subject": "",
-   "source_tier": 1,
+   "source_tier": 3,
    "people": [
-    "Joshua Zirkzee",
-    "Marcus Rashford"
+    "Michael Carrick"
    ]
   },
   {
-   "headline": "Manchester United lose 4-2 to AC Milan in pre-season friendly",
-   "summary": "United played AC Milan on 15 Aug 2026 in a friendly at Tarczyński Arena in Wrocław, losing 2-4.",
+   "headline": "Manchester United lose 2-4 to AC Milan in final pre-season friendly",
+   "summary": "United suffer defeat to AC Milan in Wroclaw, raising questions before Premier League season begins next week.",
    "source": "Manchester United Official",
    "url": "https://www.manutd.com/en/news",
    "published": "15 Aug",
    "category": "match",
-   "tone": -1,
+   "tone": -2,
    "is_rumour": false,
    "rumour_subject": "",
    "source_tier": 1,
-   "people": []
+   "people": [
+    "Michael Carrick"
+   ]
+  },
+  {
+   "headline": "Maguire urges Rashford to stay at Manchester United",
+   "summary": "Harry Maguire makes passionate plea for Marcus Rashford to remain as transfer deadline approaches, calling him vital to squad.",
+   "source": "Yahoo Sports",
+   "url": "",
+   "published": "16 Aug",
+   "category": "club",
+   "tone": 1,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 3,
+   "people": [
+    "Harry Maguire",
+    "Marcus Rashford"
+   ]
+  },
+  {
+   "headline": "Rashford makes return in AC Milan friendly after 8-month absence",
+   "summary": "Marcus Rashford introduced in second half of AC Milan match after long absence due to Amorim loan spell and Barcelona.",
+   "source": "Yahoo Sports",
+   "url": "",
+   "published": "15 Aug",
+   "category": "team news",
+   "tone": 1,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 3,
+   "people": [
+    "Marcus Rashford",
+    "Michael Carrick"
+   ]
+  },
+  {
+   "headline": "INEOS may reverse Rashford number 14 decision after Romano deletion",
+   "source": "Bleacher Report",
+   "url": "",
+   "summary": "Transfer journalist Fabrizio Romano deletes announcement that Rashford would wear No.14, indicating potential club U-turn.",
+   "published": "16 Aug",
+   "category": "club",
+   "tone": -1,
+   "is_rumour": true,
+   "rumour_subject": "Marcus Rashford",
+   "source_tier": 2,
+   "people": [
+    "Marcus Rashford",
+    "Fabrizio Romano"
+   ]
   }
  ]
 }

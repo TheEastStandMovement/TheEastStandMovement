@@ -28,14 +28,15 @@
  "marcus-rashford": {
   "subject": "Marcus Rashford",
   "first_seen": "2026-07-26",
-  "last_seen": "2026-08-04",
-  "mentions": 4,
-  "best_tier": 3,
-  "temperature": 0.0,
+  "last_seen": "2026-08-17",
+  "mentions": 5,
+  "best_tier": 2,
+  "temperature": 25.0,
   "sources": [
    "ESPN",
    "Sports Mole",
-   "The Sun"
+   "The Sun",
+   "Bleacher Report"
   ],
   "status": "live"
  },
