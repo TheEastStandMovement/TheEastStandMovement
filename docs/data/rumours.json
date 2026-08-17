@@ -9,7 +9,8 @@
   "sources": [
    "ESPN"
   ],
-  "status": "live"
+  "status": "cold",
+  "lifespan_days": 0
  },
  "eduardo-camavinga": {
   "subject": "Eduardo Camavinga",
@@ -21,7 +22,8 @@
   "sources": [
    "ESPN"
   ],
-  "status": "live"
+  "status": "cold",
+  "lifespan_days": 0
  },
  "marcus-rashford": {
   "subject": "Marcus Rashford",
@@ -47,7 +49,8 @@
   "sources": [
    "Bleacher Report"
   ],
-  "status": "live"
+  "status": "cold",
+  "lifespan_days": 0
  },
  "warren-zaire-emery": {
   "subject": "Warren Zaire-Emery",
@@ -59,7 +62,8 @@
   "sources": [
    "Bleacher Report"
   ],
-  "status": "live"
+  "status": "cold",
+  "lifespan_days": 0
  },
  "joshua-zirkzee": {
   "subject": "Joshua Zirkzee",
@@ -86,7 +90,8 @@
   "sources": [
    "Goal.com"
   ],
-  "status": "live"
+  "status": "cold",
+  "lifespan_days": 0
  },
  "iliman-ndiaye": {
   "subject": "Iliman Ndiaye",
