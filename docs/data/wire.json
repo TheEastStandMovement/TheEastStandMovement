@@ -1,35 +1,155 @@
 {
- "collected": "2026-08-18T07:27+00:00",
+ "collected": "2026-08-18T18:18+00:00",
  "items": [
   {
-   "headline": "Carrick says Man Utd want and need more signings before Sept 1",
-   "summary": "Head coach Michael Carrick confirms club requires additional transfers with window closing. Man Utd have signed Santos, Tielemans, and Darlow so far.",
-   "source": "Sky Sports",
-   "url": "https://www.skysports.com/football/news/11095/13572595/man-utd-transfer-news-michael-carrick-says-he-wants-and-needs-more-signings-before-the-end-of-the-summer-window",
-   "published": "13 Aug",
+   "headline": "Manchester United lose to AC Milan 4-2 in pre-season friendly",
+   "summary": "United suffered a heavy defeat to AC Milan in Wroclaw during pre-season preparations, losing 4-2",
+   "source": "Manchester United",
+   "url": "https://www.manutd.com/en/news",
+   "published": "16 Aug",
+   "category": "match",
+   "tone": -2,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 1,
+   "people": [
+    "Ruben Amorim"
+   ]
+  },
+  {
+   "headline": "Bruno Fernandes missed penalties in back-to-back games",
+   "summary": "Manchester United captain Bruno Fernandes missed spot kicks in consecutive matches during pre-season",
+   "source": "Bleacher Report",
+   "url": "https://bleacherreport.com/manchester-united",
+   "published": "17 Aug",
+   "category": "team news",
+   "tone": -1,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 3,
+   "people": [
+    "Bruno Fernandes"
+   ]
+  },
+  {
+   "headline": "Ethan Williams completes move to Peterborough United",
+   "summary": "Academy product Ethan Williams ended his six-year spell at Manchester United with a transfer to League One",
+   "source": "United In Focus",
+   "url": "https://www.unitedinfocus.com/",
+   "published": "17 Aug",
    "category": "transfers",
    "tone": 0,
    "is_rumour": false,
    "rumour_subject": "",
    "source_tier": 3,
    "people": [
-    "Michael Carrick",
-    "Andrey Santos",
-    "Youri Tielemans",
-    "Karl Darlow"
+    "Ethan Williams"
    ]
   },
   {
-   "headline": "Man Utd lose 4-2 to AC Milan in pre-season friendly in Wroclaw",
-   "summary": "Manchester United fell to a 4-2 defeat against AC Milan in pre-season preparation. Match played in Poland ahead of league season.",
-   "source": "Manchester United",
-   "url": "https://www.manutd.com/en/news",
-   "published": "15 Aug",
-   "category": "match",
+   "headline": "Fresh push expected for Frenkie de Jong in coming days",
+   "summary": "Manchester United expected to make a renewed attempt to sign Netherlands midfielder Frenkie de Jong",
+   "source": "Stretty News/Telegraaf",
+   "url": "https://stretty.substack.com/p/manchester-united-newsletter-saturday",
+   "published": "13 Aug",
+   "category": "transfers",
+   "tone": 1,
+   "is_rumour": true,
+   "rumour_subject": "Frenkie de Jong",
+   "source_tier": 2,
+   "people": [
+    "Frenkie de Jong",
+    "Marcel Van Der Kraan"
+   ]
+  },
+  {
+   "headline": "John Murtough in Turin to discuss Adrien Rabiot",
+   "summary": "Manchester United director John Murtough spotted in Turin with Juventus regarding Adrien Rabiot contract discussions",
+   "source": "Stretty News",
+   "url": "https://stretty.substack.com/p/manchester-united-newsletter-saturday",
+   "published": "13 Aug",
+   "category": "transfers",
+   "tone": 1,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 3,
+   "people": [
+    "John Murtough",
+    "Adrien Rabiot"
+   ]
+  },
+  {
+   "headline": "Galatasaray ready €50m bid for Bruno Fernandes",
+   "summary": "Turkish club Galatasaray prepared to bid €50m for Manchester United captain Bruno Fernandes with doubled wages offer",
+   "source": "TEAMtalk",
+   "url": "https://www.teamtalk.com/manchester-united",
+   "published": "17 Aug",
+   "category": "transfers",
+   "tone": -1,
+   "is_rumour": true,
+   "rumour_subject": "Bruno Fernandes",
+   "source_tier": 3,
+   "people": [
+    "Bruno Fernandes"
+   ]
+  },
+  {
+   "headline": "U21s suffer heavy 5-1 defeat to Crystal Palace",
+   "summary": "Manchester United's U21 side lost heavily 5-1 against Crystal Palace at Leigh Sports Village in a pre-season match",
+   "source": "Stretty News",
+   "url": "https://stretty.substack.com/p/manchester-united-newsletter-saturday",
+   "published": "13 Aug",
+   "category": "team news",
+   "tone": -2,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 3,
+   "people": [
+    "Charlie Savage"
+   ]
+  },
+  {
+   "headline": "Michael Carrick urges two new signings before deadline",
+   "summary": "Manchester United manager Michael Carrick keen to land two additional players ahead of the transfer window closing",
+   "source": "TEAMtalk",
+   "url": "https://www.teamtalk.com/manchester-united",
+   "published": "18 Aug",
+   "category": "club",
+   "tone": 0,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 3,
+   "people": [
+    "Michael Carrick"
+   ]
+  },
+  {
+   "headline": "Fabrizio Romano deletes Bruno Fernandes No.14 shirt announcement",
+   "summary": "Transfer reporter Fabrizio Romano deleted a post confirming Bruno Fernandes would wear No.14, suggesting INEOS U-turned on decision",
+   "source": "Bleacher Report",
+   "url": "https://bleacherreport.com/manchester-united",
+   "published": "17 Aug",
+   "category": "club",
+   "tone": 0,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 3,
+   "people": [
+    "Bruno Fernandes",
+    "Fabrizio Romano"
+   ]
+  },
+  {
+   "headline": "United U19s finish sixth at Otten Innovation Cup",
+   "summary": "Manchester United's U19 squad placed sixth at the tournament after a 5-1 loss to Benfica in the fifth-place playoff",
+   "source": "Bleacher Report",
+   "url": "https://bleacherreport.com/manchester-united",
+   "published": "17 Aug",
+   "category": "team news",
    "tone": -1,
    "is_rumour": false,
    "rumour_subject": "",
-   "source_tier": 1,
+   "source_tier": 3,
    "people": []
   }
  ]

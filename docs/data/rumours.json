@@ -31,7 +31,7 @@
   "last_seen": "2026-08-17",
   "mentions": 5,
   "best_tier": 2,
-  "temperature": 22.0,
+  "temperature": 19.4,
   "sources": [
    "ESPN",
    "Sports Mole",
@@ -115,6 +115,30 @@
   "temperature": 0.0,
   "sources": [
    "Last Word on Sports"
+  ],
+  "status": "live"
+ },
+ "frenkie-de-jong": {
+  "subject": "Frenkie de Jong",
+  "first_seen": "2026-08-18",
+  "last_seen": "2026-08-18",
+  "mentions": 1,
+  "best_tier": 2,
+  "temperature": 25.0,
+  "sources": [
+   "Stretty News/Telegraaf"
+  ],
+  "status": "live"
+ },
+ "bruno-fernandes": {
+  "subject": "Bruno Fernandes",
+  "first_seen": "2026-08-18",
+  "last_seen": "2026-08-18",
+  "mentions": 1,
+  "best_tier": 3,
+  "temperature": 12.0,
+  "sources": [
+   "TEAMtalk"
   ],
   "status": "live"
  }

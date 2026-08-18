@@ -4,7 +4,7 @@
  "board": [
   {
    "name": "Michael Carrick",
-   "count": 25,
+   "count": 26,
    "last": "2026-08-18"
   },
   {
@@ -43,6 +43,11 @@
    "last": "2026-08-03"
   },
   {
+   "name": "Bruno Fernandes",
+   "count": 3,
+   "last": "2026-08-18"
+  },
+  {
    "name": "Karl Darlow",
    "count": 3,
    "last": "2026-08-18"
@@ -71,11 +76,6 @@
    "name": "Casemiro",
    "count": 2,
    "last": "2026-08-10"
-  },
-  {
-   "name": "Harry Maguire",
-   "count": 2,
-   "last": "2026-08-17"
   }
  ]
 }
