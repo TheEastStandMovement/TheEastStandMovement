@@ -1,9 +1,9 @@
 {
- "collected": "2026-08-19T07:28+00:00",
+ "collected": "2026-08-19T18:15+00:00",
  "items": [
   {
-   "headline": "Michael Carrick says Manchester United want and need more signings before window closes",
-   "summary": "Michael Carrick stated the club require additional transfers before the September 1 deadline after signing Santos, Tielemans and Darlow.",
+   "headline": "Carrick says United want and need more signings before September 1 deadline",
+   "summary": "Manchester United manager Michael Carrick has stated the club require further transfer business this summer after signing Andrey Santos, Youri Tielemans and Karl Darlow.",
    "source": "Sky Sports",
    "url": "https://www.skysports.com/football/news/11095/13572595/man-utd-transfer-news-michael-carrick-says-he-wants-and-needs-more-signings-before-the-end-of-the-summer-window",
    "published": "13 Aug",
@@ -13,21 +13,7 @@
    "rumour_subject": "",
    "source_tier": 3,
    "people": [
-    "Michael Carrick"
-   ]
-  },
-  {
-   "headline": "Manchester United complete summer signings of Andrey Santos and Youri Tielemans",
-   "summary": "United signed midfielder Andrey Santos and Youri Tielemans for combined £85m, plus Karl Darlow on free transfer from Leeds.",
-   "source": "Sky Sports",
-   "url": "https://www.skysports.com/football/news/11095/13572595/man-utd-transfer-news-michael-carrick-says-he-wants-and-needs-more-signings-before-the-end-of-the-summer-window",
-   "published": "13 Aug",
-   "category": "transfers",
-   "tone": 1,
-   "is_rumour": false,
-   "rumour_subject": "",
-   "source_tier": 3,
-   "people": [
+    "Michael Carrick",
     "Andrey Santos",
     "Youri Tielemans",
     "Karl Darlow"
