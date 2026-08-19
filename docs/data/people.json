@@ -1,11 +1,11 @@
 {
  "window_days": 30,
- "updated": "2026-08-18",
+ "updated": "2026-08-19",
  "board": [
   {
    "name": "Michael Carrick",
-   "count": 26,
-   "last": "2026-08-18"
+   "count": 27,
+   "last": "2026-08-19"
   },
   {
    "name": "Benjamin Sesko",
@@ -19,8 +19,8 @@
   },
   {
    "name": "Youri Tielemans",
-   "count": 12,
-   "last": "2026-08-18"
+   "count": 13,
+   "last": "2026-08-19"
   },
   {
    "name": "Joshua Zirkzee",
@@ -29,13 +29,18 @@
   },
   {
    "name": "Andrey Santos",
-   "count": 8,
-   "last": "2026-08-18"
+   "count": 9,
+   "last": "2026-08-19"
   },
   {
    "name": "Radek Vitek",
    "count": 5,
    "last": "2026-08-13"
+  },
+  {
+   "name": "Karl Darlow",
+   "count": 4,
+   "last": "2026-08-19"
   },
   {
    "name": "Leitzig",
@@ -44,11 +49,6 @@
   },
   {
    "name": "Bruno Fernandes",
-   "count": 3,
-   "last": "2026-08-18"
-  },
-  {
-   "name": "Karl Darlow",
    "count": 3,
    "last": "2026-08-18"
   },
