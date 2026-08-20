@@ -31,7 +31,7 @@
   "last_seen": "2026-08-17",
   "mentions": 5,
   "best_tier": 2,
-  "temperature": 11.6,
+  "temperature": 7.9,
   "sources": [
    "ESPN",
    "Sports Mole",
@@ -124,7 +124,7 @@
   "last_seen": "2026-08-18",
   "mentions": 1,
   "best_tier": 2,
-  "temperature": 19.4,
+  "temperature": 15.0,
   "sources": [
    "Stretty News/Telegraaf"
   ],
@@ -136,7 +136,7 @@
   "last_seen": "2026-08-18",
   "mentions": 1,
   "best_tier": 3,
-  "temperature": 9.3,
+  "temperature": 7.2,
   "sources": [
    "TEAMtalk"
   ],
