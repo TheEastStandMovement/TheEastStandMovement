@@ -31,7 +31,7 @@
   "last_seen": "2026-08-17",
   "mentions": 5,
   "best_tier": 2,
-  "temperature": 7.9,
+  "temperature": 4.7,
   "sources": [
    "ESPN",
    "Sports Mole",
@@ -79,7 +79,8 @@
    "The Peoples Person",
    "The National"
   ],
-  "status": "live"
+  "status": "cold",
+  "lifespan_days": 4
  },
  "alex-scott": {
   "subject": "Alex Scott",
@@ -124,7 +125,7 @@
   "last_seen": "2026-08-18",
   "mentions": 1,
   "best_tier": 2,
-  "temperature": 15.0,
+  "temperature": 10.2,
   "sources": [
    "Stretty News/Telegraaf"
   ],
@@ -136,9 +137,21 @@
   "last_seen": "2026-08-18",
   "mentions": 1,
   "best_tier": 3,
-  "temperature": 7.2,
+  "temperature": 4.9,
   "sources": [
    "TEAMtalk"
+  ],
+  "status": "live"
+ },
+ "carlos-baleba": {
+  "subject": "Carlos Baleba",
+  "first_seen": "2026-08-21",
+  "last_seen": "2026-08-21",
+  "mentions": 1,
+  "best_tier": 3,
+  "temperature": 12.0,
+  "sources": [
+   "Multiple sources"
   ],
   "status": "live"
  }
