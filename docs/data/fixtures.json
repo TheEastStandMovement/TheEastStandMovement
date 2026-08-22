@@ -1,11 +1,5 @@
 [
  {
-  "utcDate": "2026-08-22T11:30:00Z",
-  "home": "Hull City",
-  "away": "Man United",
-  "competition": "Premier League"
- },
- {
   "utcDate": "2026-08-30T15:30:00Z",
   "home": "Man United",
   "away": "Ipswich Town",
@@ -33,6 +27,12 @@
   "utcDate": "2026-10-10T16:30:00Z",
   "home": "Man United",
   "away": "Tottenham",
+  "competition": "Premier League"
+ },
+ {
+  "utcDate": "2026-10-18T13:00:00Z",
+  "home": "Leeds United",
+  "away": "Man United",
   "competition": "Premier League"
  }
 ]

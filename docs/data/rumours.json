@@ -31,7 +31,7 @@
   "last_seen": "2026-08-17",
   "mentions": 5,
   "best_tier": 2,
-  "temperature": 4.7,
+  "temperature": 2.5,
   "sources": [
    "ESPN",
    "Sports Mole",
@@ -105,7 +105,8 @@
   "sources": [
    "Sports Mole"
   ],
-  "status": "live"
+  "status": "cold",
+  "lifespan_days": 0
  },
  "lewis-hall": {
   "subject": "Lewis Hall",
@@ -125,7 +126,7 @@
   "last_seen": "2026-08-18",
   "mentions": 1,
   "best_tier": 2,
-  "temperature": 10.2,
+  "temperature": 6.1,
   "sources": [
    "Stretty News/Telegraaf"
   ],
@@ -137,7 +138,7 @@
   "last_seen": "2026-08-18",
   "mentions": 1,
   "best_tier": 3,
-  "temperature": 4.9,
+  "temperature": 2.9,
   "sources": [
    "TEAMtalk"
   ],
@@ -149,7 +150,7 @@
   "last_seen": "2026-08-21",
   "mentions": 1,
   "best_tier": 3,
-  "temperature": 12.0,
+  "temperature": 10.6,
   "sources": [
    "Multiple sources"
   ],
