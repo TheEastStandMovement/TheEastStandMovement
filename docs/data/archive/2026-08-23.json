@@ -1,43 +1,35 @@
 {
- "collected": "2026-08-23T07:23+00:00",
+ "collected": "2026-08-23T18:11+00:00",
  "items": [
   {
-   "headline": "Hull City defeats Manchester United 2-0 in Premier League opener",
-   "summary": "Newly promoted Hull City secured their first-ever Premier League victory over Manchester United with goals from Ajayi and Mendy in the first half.",
-   "source": "ESPN",
-   "url": "https://www.espn.com/soccer/match/_/gameId/401879322/manchester-united-hull-city",
-   "published": "22 Aug",
+   "headline": "Manchester United suffer 2-0 defeat to Hull City in Premier League opening",
+   "summary": "Hull City stunned Manchester United with a 2-0 victory in the season opener, with goals from Semi Ajayi and Nobel Mendy.",
+   "source": "Sky Sports",
+   "url": "",
+   "published": "23 Aug",
    "category": "match",
    "tone": -2,
    "is_rumour": false,
    "rumour_subject": "",
    "source_tier": 3,
    "people": [
-    "Craig Ajayi",
-    "Nobel Mendy",
-    "Michael Carrick"
+    "Michael Carrick",
+    "Bruno Fernandes"
    ]
   },
   {
-   "headline": "United face multiple injuries ahead of Hull City match",
-   "summary": "Manchester United without Ugarte, Lisandro Martinez, de Ligt, Mainoo, Sesko, Darlow, Mount, and Heaton for the Premier League season opener.",
-   "source": "Goal.com",
-   "url": "https://www.goal.com/en/news/hull-city-manchester-united-premier-league-preview/blt027a5fbbc6c9e28e",
-   "published": "22 Aug",
-   "category": "team news",
-   "tone": -1,
+   "headline": "Youri Tielemans completes Manchester United move from Aston Villa",
+   "summary": "Manchester United activated a release clause to sign midfielder Youri Tielemans from Aston Villa on a five-year contract.",
+   "source": "TeamTalk",
+   "url": "https://www.teamtalk.com/manchester-united/every-completed-man-utd-transfer-summer-2026-signings-exits-loans",
+   "published": "19 Aug",
+   "category": "transfers",
+   "tone": 2,
    "is_rumour": false,
    "rumour_subject": "",
    "source_tier": 3,
    "people": [
-    "Manuel Ugarte",
-    "Lisandro Martinez",
-    "Matthijs de Ligt",
-    "Kobbie Mainoo",
-    "Benjamin Sesko",
-    "Karl Darlow",
-    "Mason Mount",
-    "Tom Heaton"
+    "Youri Tielemans"
    ]
   }
  ]

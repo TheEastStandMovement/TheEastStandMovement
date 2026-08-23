@@ -4,7 +4,7 @@
  "board": [
   {
    "name": "Michael Carrick",
-   "count": 32,
+   "count": 33,
    "last": "2026-08-23"
   },
   {
@@ -43,6 +43,11 @@
    "last": "2026-08-13"
   },
   {
+   "name": "Bruno Fernandes",
+   "count": 4,
+   "last": "2026-08-23"
+  },
+  {
    "name": "Leitzig",
    "count": 4,
    "last": "2026-08-03"
@@ -51,11 +56,6 @@
    "name": "Rasmus Hojlund",
    "count": 4,
    "last": "2026-08-22"
-  },
-  {
-   "name": "Bruno Fernandes",
-   "count": 3,
-   "last": "2026-08-18"
   },
   {
    "name": "Lisandro Martinez",
