@@ -31,7 +31,7 @@
   "last_seen": "2026-08-17",
   "mentions": 5,
   "best_tier": 2,
-  "temperature": 0.6,
+  "temperature": 0.2,
   "sources": [
    "ESPN",
    "Sports Mole",
@@ -118,7 +118,8 @@
   "sources": [
    "Last Word on Sports"
   ],
-  "status": "live"
+  "status": "cold",
+  "lifespan_days": 0
  },
  "frenkie-de-jong": {
   "subject": "Frenkie de Jong",
@@ -126,7 +127,7 @@
   "last_seen": "2026-08-18",
   "mentions": 1,
   "best_tier": 2,
-  "temperature": 1.7,
+  "temperature": 0.8,
   "sources": [
    "Stretty News/Telegraaf"
   ],
@@ -138,7 +139,7 @@
   "last_seen": "2026-08-18",
   "mentions": 1,
   "best_tier": 3,
-  "temperature": 0.8,
+  "temperature": 0.4,
   "sources": [
    "TEAMtalk"
   ],
@@ -150,7 +151,7 @@
   "last_seen": "2026-08-21",
   "mentions": 1,
   "best_tier": 3,
-  "temperature": 6.4,
+  "temperature": 4.4,
   "sources": [
    "Multiple sources"
   ],
