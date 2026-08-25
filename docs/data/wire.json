@@ -1,9 +1,9 @@
 {
- "collected": "2026-08-25T07:34+00:00",
+ "collected": "2026-08-25T18:20+00:00",
  "items": [
   {
-   "headline": "Man United stunned by newly promoted Hull City 2-0 in Premier League opener",
-   "summary": "Michael Carrick's side lost 2-0 away at Hull City in the 2026-27 Premier League season opener on August 22, conceding goals from Semi Ajayi and Nobel Mendy.",
+   "headline": "Manchester United suffer humiliating 2-0 defeat to newly promoted Hull City",
+   "summary": "Michael Carrick's side lost their Premier League opener 2-0 to Hull City, with first-half goals from Semi Ajayi and Nobel Mendy exposing defensive vulnerabilities.",
    "source": "ESPN",
    "url": "https://www.espn.com/soccer/story/_/id/49690579/man-united-fall-shock-hull-defeat-premier-league-opener",
    "published": "22 Aug",
@@ -14,39 +14,9 @@
    "source_tier": 3,
    "people": [
     "Michael Carrick",
+    "Marcus Rashford",
     "Semi Ajayi",
-    "Nobel Mendy",
-    "Marcus Rashford"
-   ]
-  },
-  {
-   "headline": "Marcus Rashford returns to squad with No. 9 shirt after Barcelona loan",
-   "summary": "Rashford was unveiled wearing squad number 9 for 2026-27 season after loan spell at Barcelona, coming on as halftime substitute against Hull City.",
-   "source": "ESPN",
-   "url": "https://www.espn.com/soccer/story/_/id/49690579/man-united-fall-shock-hull-defeat-premier-league-opener",
-   "published": "22 Aug",
-   "category": "team news",
-   "tone": 1,
-   "is_rumour": false,
-   "rumour_subject": "",
-   "source_tier": 3,
-   "people": [
-    "Marcus Rashford"
-   ]
-  },
-  {
-   "headline": "Michael Carrick: one defeat won't change United's direction",
-   "summary": "United manager stated the team must improve but emphasized one game will not change the club's overall direction after Hull defeat.",
-   "source": "ESPN",
-   "url": "https://www.espn.com/soccer/story/_/id/49690579/man-united-fall-shock-hull-defeat-premier-league-opener",
-   "published": "22 Aug",
-   "category": "club",
-   "tone": 0,
-   "is_rumour": false,
-   "rumour_subject": "",
-   "source_tier": 3,
-   "people": [
-    "Michael Carrick"
+    "Nobel Mendy"
    ]
   }
  ]
