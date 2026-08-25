@@ -1,16 +1,16 @@
 {
  "window_days": 30,
- "updated": "2026-08-24",
+ "updated": "2026-08-25",
  "board": [
   {
    "name": "Michael Carrick",
-   "count": 35,
-   "last": "2026-08-24"
+   "count": 37,
+   "last": "2026-08-25"
   },
   {
    "name": "Marcus Rashford",
-   "count": 19,
-   "last": "2026-08-24"
+   "count": 21,
+   "last": "2026-08-25"
   },
   {
    "name": "Benjamin Sesko",
@@ -53,6 +53,11 @@
    "last": "2026-08-03"
   },
   {
+   "name": "Nobel Mendy",
+   "count": 4,
+   "last": "2026-08-25"
+  },
+  {
    "name": "Rasmus Hojlund",
    "count": 4,
    "last": "2026-08-22"
@@ -63,19 +68,14 @@
    "last": "2026-08-23"
   },
   {
-   "name": "Nobel Mendy",
+   "name": "Semi Ajayi",
    "count": 3,
-   "last": "2026-08-24"
+   "last": "2026-08-25"
   },
   {
    "name": "Shea Lacey",
    "count": 3,
    "last": "2026-07-31"
-  },
-  {
-   "name": "Tyler Fredricson",
-   "count": 3,
-   "last": "2026-08-01"
   }
  ]
 }
