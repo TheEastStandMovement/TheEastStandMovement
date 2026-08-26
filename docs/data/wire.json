@@ -1,34 +1,20 @@
 {
- "collected": "2026-08-26T07:35+00:00",
+ "collected": "2026-08-26T19:30+00:00",
  "items": [
   {
-   "headline": "Bruno Fernandes named PFA Players' Player of the Year",
-   "summary": "Manchester United midfielder Bruno Fernandes has won the PFA Players' Player of the Year award.",
-   "source": "Manchester United (Official)",
-   "url": "https://www.manutd.com/en/news",
-   "published": "26 Aug",
-   "category": "team news",
-   "tone": 2,
-   "is_rumour": false,
-   "rumour_subject": "",
-   "source_tier": 1,
-   "people": [
-    "Bruno Fernandes"
-   ]
-  },
-  {
-   "headline": "Carlos Baleba completes Manchester United move from Brighton",
-   "summary": "Manchester United complete signing of midfielder Carlos Baleba from Brighton with fee up to $95 million.",
-   "source": "Manchester United (Official)",
-   "url": "https://www.manutd.com/en/news",
-   "published": "26 Aug",
+   "headline": "Manchester United complete signing of Carlos Baleba from Brighton",
+   "summary": "Cameroon midfielder Carlos Baleba joins United in £70m deal (£65m guaranteed plus £5m add-ons). 22-year-old signs five-year contract with option for further year. Currently injured with ankle injury, expected back mid-September.",
+   "source": "Sky Sports",
+   "url": "https://www.skysports.com/football/news/11095/13575283/carlos-baleba-transfer-manchester-united-complete-signing-of-cameroon-midfielder-from-brighton",
+   "published": "25 Aug",
    "category": "transfers",
    "tone": 2,
    "is_rumour": false,
    "rumour_subject": "",
-   "source_tier": 1,
+   "source_tier": 2,
    "people": [
-    "Carlos Baleba"
+    "Carlos Baleba",
+    "Michael Carrick"
    ]
   }
  ]
