@@ -127,7 +127,7 @@
   "last_seen": "2026-08-18",
   "mentions": 1,
   "best_tier": 2,
-  "temperature": 0.1,
+  "temperature": 0.0,
   "sources": [
    "Stretty News/Telegraaf"
   ],
@@ -139,7 +139,7 @@
   "last_seen": "2026-08-18",
   "mentions": 1,
   "best_tier": 3,
-  "temperature": 0.1,
+  "temperature": 0.0,
   "sources": [
    "TEAMtalk"
   ],
@@ -151,7 +151,7 @@
   "last_seen": "2026-08-21",
   "mentions": 1,
   "best_tier": 3,
-  "temperature": 1.6,
+  "temperature": 0.8,
   "sources": [
    "Multiple sources"
   ],
