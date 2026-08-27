@@ -1,10 +1,10 @@
 {
  "window_days": 30,
- "updated": "2026-08-26",
+ "updated": "2026-08-27",
  "board": [
   {
    "name": "Michael Carrick",
-   "count": 39,
+   "count": 38,
    "last": "2026-08-26"
   },
   {
@@ -14,7 +14,7 @@
   },
   {
    "name": "Benjamin Sesko",
-   "count": 18,
+   "count": 17,
    "last": "2026-08-15"
   },
   {
@@ -29,18 +29,13 @@
   },
   {
    "name": "Joshua Zirkzee",
-   "count": 11,
+   "count": 10,
    "last": "2026-08-16"
   },
   {
    "name": "Bruno Fernandes",
    "count": 6,
    "last": "2026-08-26"
-  },
-  {
-   "name": "Karl Darlow",
-   "count": 5,
-   "last": "2026-08-19"
   },
   {
    "name": "Nobel Mendy",
@@ -51,6 +46,11 @@
    "name": "Radek Vitek",
    "count": 5,
    "last": "2026-08-13"
+  },
+  {
+   "name": "Karl Darlow",
+   "count": 4,
+   "last": "2026-08-19"
   },
   {
    "name": "Leitzig",
@@ -68,14 +68,14 @@
    "last": "2026-08-25"
   },
   {
+   "name": "Alejandro Balde",
+   "count": 3,
+   "last": "2026-08-27"
+  },
+  {
    "name": "Carlos Baleba",
    "count": 3,
    "last": "2026-08-26"
-  },
-  {
-   "name": "Lisandro Martinez",
-   "count": 3,
-   "last": "2026-08-23"
   }
  ]
 }
