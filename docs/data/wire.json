@@ -1,19 +1,35 @@
 {
- "collected": "2026-08-29T12:52+00:00",
+ "collected": "2026-08-29T20:05+00:00",
  "items": [
   {
-   "headline": "Carlos Baleba joins Manchester United for £65m plus £5m add-ons",
-   "summary": "Manchester United complete signing of Brighton midfielder Carlos Baleba after pursuing him since last summer. Manager Michael Carrick expresses satisfaction with the deal.",
-   "source": "TeamTalk",
-   "url": "https://www.teamtalk.com/manchester-united/every-completed-man-utd-transfer-summer-2026-signings-exits-loans",
-   "published": "29 Aug",
-   "category": "transfers",
-   "tone": 1,
+   "headline": "Manchester United lose 2-0 to Hull City in Premier League season opener",
+   "summary": "Hull City defeated Manchester United 2-0 in their opening Premier League match. Goals from Semi Ajayi and Nobel Mendy in the first half left United under pressure early in the season.",
+   "source": "Sky Sports",
+   "url": "https://www.skysports.com/football/hull-city-vs-manchester-united/559447",
+   "published": "23 Aug",
+   "category": "match",
+   "tone": -2,
    "is_rumour": false,
    "rumour_subject": "",
    "source_tier": 3,
    "people": [
-    "Carlos Baleba",
+    "Semi Ajayi",
+    "Nobel Mendy",
+    "Michael Carrick"
+   ]
+  },
+  {
+   "headline": "United face Ipswich Town in second Premier League match of season",
+   "summary": "Manchester United prepare for their visit to Ipswich Town following the disappointing opening-day defeat at Hull City.",
+   "source": "Manchester United Official",
+   "url": "https://www.manutd.com/en/news",
+   "published": "28 Aug",
+   "category": "match",
+   "tone": 0,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 1,
+   "people": [
     "Michael Carrick"
    ]
   }
