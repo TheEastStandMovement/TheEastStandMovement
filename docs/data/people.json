@@ -1,20 +1,20 @@
 {
  "window_days": 30,
- "updated": "2026-08-30",
+ "updated": "2026-08-31",
  "board": [
   {
    "name": "Michael Carrick",
    "count": 40,
-   "last": "2026-08-30"
+   "last": "2026-08-31"
   },
   {
    "name": "Marcus Rashford",
-   "count": 21,
+   "count": 19,
    "last": "2026-08-25"
   },
   {
    "name": "Youri Tielemans",
-   "count": 17,
+   "count": 16,
    "last": "2026-08-28"
   },
   {
@@ -24,18 +24,18 @@
   },
   {
    "name": "Benjamin Sesko",
-   "count": 11,
+   "count": 10,
    "last": "2026-08-15"
+  },
+  {
+   "name": "Bruno Fernandes",
+   "count": 9,
+   "last": "2026-08-31"
   },
   {
    "name": "Carlos Baleba",
    "count": 8,
    "last": "2026-08-30"
-  },
-  {
-   "name": "Bruno Fernandes",
-   "count": 7,
-   "last": "2026-08-28"
   },
   {
    "name": "Joshua Zirkzee",
@@ -73,9 +73,9 @@
    "last": "2026-08-27"
   },
   {
-   "name": "Leitzig",
+   "name": "Luke Shaw",
    "count": 3,
-   "last": "2026-08-03"
+   "last": "2026-08-27"
   }
  ]
 }
