@@ -1,12 +1,12 @@
 {
- "collected": "2026-08-31T14:31+00:00",
+ "collected": "2026-08-31T22:06+00:00",
  "items": [
   {
-   "headline": "Bruno Fernandes hat-trick leads Manchester United to 5-2 victory over Ipswich Town",
-   "summary": "Manchester United defeated Ipswich Town 5-2 at Old Trafford with Bruno Fernandes scoring a hat-trick and providing an assist as the team showed strong second-half performance.",
-   "source": "Manchester United (official)",
+   "headline": "Manchester United beat Ipswich Town 5-2 at Old Trafford",
+   "summary": "Man United secured a convincing 5-2 home victory against Ipswich Town in recent Premier League action. Bruno Fernandes scored including a penalty.",
+   "source": "Manchester United",
    "url": "https://www.manutd.com/en/news",
-   "published": "30 Aug",
+   "published": "31 Aug",
    "category": "match",
    "tone": 2,
    "is_rumour": false,
@@ -18,18 +18,18 @@
    ]
   },
   {
-   "headline": "Bruno Fernandes named PFA Men's Player of the Year for 2024-25 season",
-   "summary": "Bruno Fernandes received the Professional Footballers' Association's men's player of the year award after breaking a Premier League record with 21 assists last season.",
-   "source": "Sky Sports",
-   "url": "",
+   "headline": "Baleba signing completed for £65m plus £5m add-ons",
+   "summary": "Manchester United complete the acquisition of Baleba from Brighton after years of pursuit. The midfielder arrives as part of their summer rebuild.",
+   "source": "Team Talk",
+   "url": "https://www.teamtalk.com/manchester-united/every-completed-man-utd-transfer-summer-2026-signings-exits-loans",
    "published": "30 Aug",
-   "category": "team news",
-   "tone": 2,
+   "category": "transfers",
+   "tone": 1,
    "is_rumour": false,
    "rumour_subject": "",
    "source_tier": 3,
    "people": [
-    "Bruno Fernandes"
+    "Baleba"
    ]
   }
  ]
