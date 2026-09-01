@@ -69,10 +69,10 @@
  "joshua-zirkzee": {
   "subject": "Joshua Zirkzee",
   "first_seen": "2026-07-26",
-  "last_seen": "2026-07-30",
-  "mentions": 4,
+  "last_seen": "2026-09-01",
+  "mentions": 5,
   "best_tier": 3,
-  "temperature": 0.0,
+  "temperature": 5.0,
   "sources": [
    "Bleacher Report",
    "United In Focus",
@@ -154,6 +154,30 @@
   "temperature": 0.0,
   "sources": [
    "Multiple sources"
+  ],
+  "status": "live"
+ },
+ "marcus-rashford-joshua-zirkzee": {
+  "subject": "Marcus Rashford, Joshua Zirkzee",
+  "first_seen": "2026-09-01",
+  "last_seen": "2026-09-01",
+  "mentions": 1,
+  "best_tier": 4,
+  "temperature": 5.0,
+  "sources": [
+   "Sports Illustrated"
+  ],
+  "status": "live"
+ },
+ "harry-amass": {
+  "subject": "Harry Amass",
+  "first_seen": "2026-09-01",
+  "last_seen": "2026-09-01",
+  "mentions": 1,
+  "best_tier": 3,
+  "temperature": 12.0,
+  "sources": [
+   "Yahoo Sports"
   ],
   "status": "live"
  }
