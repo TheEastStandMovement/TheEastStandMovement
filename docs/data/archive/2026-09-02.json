@@ -1,98 +1,78 @@
 {
- "collected": "2026-09-02T11:47+00:00",
+ "collected": "2026-09-02T20:12+00:00",
  "items": [
   {
-   "headline": "Man United defeats Ipswich Town 5-2 in emphatic response to Hull loss",
-   "summary": "Manchester United bounced back from opening weekend defeat with commanding 5-2 victory over Ipswich Town on Saturday.",
-   "source": "Manchester United (Official)",
-   "url": "https://www.manutd.com/en/news",
-   "published": "01 Sep",
-   "category": "match",
-   "tone": 2,
-   "is_rumour": false,
-   "rumour_subject": "",
-   "source_tier": 1,
-   "people": [
-    "Michael Carrick",
-    "Bruno Fernandes",
-    "Harry Maguire"
-   ]
-  },
-  {
-   "headline": "Manchester United closes transfer window with 7 signings and 24 departures",
-   "summary": "Summer 2026 transfer window ends with midfielder focus: Andrey Santos, Youri Tielemans and Carlos Baleba join; no new left-back or striker added.",
-   "source": "Manchester United (Official)",
-   "url": "https://www.manutd.com/en/news",
+   "headline": "Manchester United complete summer transfers with 7 signings, 24 departures",
+   "summary": "Transfer window closes with Manchester United signing 7 players and parting with 24 via loans, transfers and expiring contracts",
+   "source": "Manchester United / Official club sources",
+   "url": "",
    "published": "01 Sep",
    "category": "transfers",
    "tone": 0,
    "is_rumour": false,
    "rumour_subject": "",
    "source_tier": 1,
+   "people": []
+  },
+  {
+   "headline": "Rasmus Hojlund completes permanent move to Napoli for £43m",
+   "summary": "Danish striker Rasmus Hojlund joins Napoli permanently after loan spell, with move triggered by Napoli's Champions League qualification",
+   "source": "GiveMeSport",
+   "url": "https://www.givemesport.com/man-utd-transfers-2026-27/",
+   "published": "01 Sep",
+   "category": "transfers",
+   "tone": -1,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 3,
    "people": [
-    "Andrey Santos",
-    "Youri Tielemans",
+    "Rasmus Hojlund"
+   ]
+  },
+  {
+   "headline": "Carlos Baleba completes Manchester United transfer from Brighton",
+   "summary": "Midfielder Carlos Baleba signed from Brighton for £65m plus £5m add-ons to complete United's midfield rebuild",
+   "source": "TeamTalk",
+   "url": "https://www.teamtalk.com/manchester-united/every-completed-man-utd-transfer-summer-2026-signings-exits-loans",
+   "published": "01 Sep",
+   "category": "transfers",
+   "tone": 1,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 3,
+   "people": [
     "Carlos Baleba"
    ]
   },
   {
-   "headline": "Dan Gore secures Luton Town loan for 2026/27 season",
-   "summary": "Manchester United academy prospect Dan Gore joins Luton Town on loan for the upcoming season.",
-   "source": "Manchester United (Official)",
-   "url": "https://www.manutd.com/en/news",
-   "published": "01 Sep",
-   "category": "team news",
-   "tone": 0,
-   "is_rumour": false,
-   "rumour_subject": "",
-   "source_tier": 1,
-   "people": [
-    "Dan Gore"
-   ]
-  },
-  {
-   "headline": "Jayce Fitzgerald joins Rotherham United on loan",
-   "summary": "Young player Jayce Fitzgerald moves to Rotherham United on loan from Manchester United.",
-   "source": "Manchester United (Official)",
-   "url": "https://www.manutd.com/en/news",
-   "published": "01 Sep",
-   "category": "team news",
-   "tone": 0,
-   "is_rumour": false,
-   "rumour_subject": "",
-   "source_tier": 1,
-   "people": [
-    "Jayce Fitzgerald"
-   ]
-  },
-  {
-   "headline": "Louis Jackson completes permanent transfer to St Mirren",
-   "summary": "Manchester United confirm forward Louis Jackson has joined Scottish club St Mirren on permanent deal.",
-   "source": "Manchester United (Official)",
-   "url": "https://www.manutd.com/en/news",
+   "headline": "Casemiro departs Manchester United as free agent",
+   "summary": "Brazilian midfielder Casemiro left Manchester United at end of contract following the 2025-26 season",
+   "source": "GiveMeSport",
+   "url": "https://www.givemesport.com/man-utd-transfers-2026-27/",
    "published": "01 Sep",
    "category": "transfers",
-   "tone": 0,
+   "tone": -1,
    "is_rumour": false,
    "rumour_subject": "",
-   "source_tier": 1,
+   "source_tier": 3,
    "people": [
-    "Louis Jackson"
+    "Casemiro"
    ]
   },
   {
-   "headline": "Bruno Fernandes hat-trick earns place in history",
-   "summary": "Bruno Fernandes' three-goal performance against Ipswich marks a significant historical milestone for Manchester United.",
-   "source": "Manchester United (Official)",
-   "url": "https://www.manutd.com/en/news",
+   "headline": "Jadon Sancho and Tyrell Malacia exit Manchester United",
+   "summary": "England winger Jadon Sancho and left-back Tyrell Malacia both depart Old Trafford in the summer transfer window",
+   "source": "GiveMeSport",
+   "url": "https://www.givemesport.com/man-utd-transfers-2026-27/",
    "published": "01 Sep",
-   "category": "team news",
-   "tone": 2,
+   "category": "transfers",
+   "tone": -1,
    "is_rumour": false,
    "rumour_subject": "",
-   "source_tier": 1,
+   "source_tier": 3,
    "people": [
-    "Bruno Fernandes"
+    "Jadon Sancho",
+    "Tyrell Malacia"
    ]
   }
  ]
