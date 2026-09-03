@@ -72,7 +72,7 @@
   "last_seen": "2026-09-01",
   "mentions": 5,
   "best_tier": 3,
-  "temperature": 3.0,
+  "temperature": 2.3,
   "sources": [
    "Bleacher Report",
    "United In Focus",
@@ -111,12 +111,13 @@
  "lewis-hall": {
   "subject": "Lewis Hall",
   "first_seen": "2026-08-02",
-  "last_seen": "2026-08-02",
-  "mentions": 1,
+  "last_seen": "2026-09-03",
+  "mentions": 2,
   "best_tier": 3,
-  "temperature": 0.0,
+  "temperature": 5.0,
   "sources": [
-   "Last Word on Sports"
+   "Last Word on Sports",
+   "Multiple sources"
   ],
   "status": "cold",
   "lifespan_days": 0
@@ -163,7 +164,7 @@
   "last_seen": "2026-09-01",
   "mentions": 1,
   "best_tier": 4,
-  "temperature": 3.0,
+  "temperature": 2.3,
   "sources": [
    "Sports Illustrated"
   ],
@@ -175,7 +176,7 @@
   "last_seen": "2026-09-01",
   "mentions": 1,
   "best_tier": 3,
-  "temperature": 7.2,
+  "temperature": 5.6,
   "sources": [
    "Yahoo Sports"
   ],

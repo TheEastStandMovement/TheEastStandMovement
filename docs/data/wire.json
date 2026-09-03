@@ -1,12 +1,53 @@
 {
- "collected": "2026-09-03T11:47+00:00",
+ "collected": "2026-09-03T20:12+00:00",
  "items": [
   {
-   "headline": "Transfer window closes; Chido Obi set for Eredivisie loan move",
-   "summary": "Manchester United striker Chido Obi to join Dutch club on loan agreement day after transfer deadline passed",
-   "source": "Manchester United Official Site",
+   "headline": "Man United beat Ipswich Town 5-2 after opening loss to Hull City",
+   "summary": "After losing 2-0 to Hull on opening day, Manchester United defeated Ipswich Town 5-2 in a strong showing, bouncing back impressively.",
+   "source": "Yahoo Sports / Heavy",
    "url": "",
-   "published": "2 Sep",
+   "published": "29 Aug",
+   "category": "match",
+   "tone": 2,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 3,
+   "people": []
+  },
+  {
+   "headline": "Manchester United closes summer window with seven signings, 24 departures",
+   "summary": "The 2026 summer transfer deadline passed. United added seven players and parted ways with 24 others via loans, transfers and expiring contracts.",
+   "source": "Yahoo Sports",
+   "url": "https://sports.yahoo.com/articles/manchester-united-2026-summer-transfer-054406739.html",
+   "published": "01 Sep",
+   "category": "transfers",
+   "tone": 0,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 3,
+   "people": []
+  },
+  {
+   "headline": "Man United linked with Newcastle left-back Lewis Hall, deal did not materialise",
+   "summary": "Man United pursued Newcastle's Lewis Hall as a potential left-back signing but failed to complete the transfer despite late discussions.",
+   "source": "Multiple sources",
+   "url": "",
+   "published": "02 Sep",
+   "category": "transfers",
+   "tone": -1,
+   "is_rumour": true,
+   "rumour_subject": "Lewis Hall",
+   "source_tier": 4,
+   "people": [
+    "Lewis Hall"
+   ]
+  },
+  {
+   "headline": "Chido Obi set for Eredivisie loan move day after transfer window closed",
+   "summary": "Manchester United forward Chido Obi agreed a loan deal to an Eredivisie club, completed post-deadline following agreement.",
+   "source": "Manchester United Official",
+   "url": "",
+   "published": "02 Sep",
    "category": "transfers",
    "tone": 0,
    "is_rumour": false,
@@ -14,34 +55,6 @@
    "source_tier": 1,
    "people": [
     "Chido Obi"
-   ]
-  },
-  {
-   "headline": "Deadline day: Failed transfer bids and window closure at 23:00 BST",
-   "summary": "Manchester United unable to add to squad until January after deadline. Failed to sign Lewis Hall from Newcastle",
-   "source": "Sky Sports / Yahoo Sports",
-   "url": "",
-   "published": "1 Sep",
-   "category": "transfers",
-   "tone": -1,
-   "is_rumour": false,
-   "rumour_subject": "",
-   "source_tier": 3,
-   "people": []
-  },
-  {
-   "headline": "Amad Diallo faces six-week layoff following ankle injury in training",
-   "summary": "Manchester United winger suffers ankle injury in training with estimated absence of six weeks",
-   "source": "Goal.com",
-   "url": "",
-   "published": "23 Aug",
-   "category": "team news",
-   "tone": -2,
-   "is_rumour": false,
-   "rumour_subject": "",
-   "source_tier": 3,
-   "people": [
-    "Amad Diallo"
    ]
   }
  ]
