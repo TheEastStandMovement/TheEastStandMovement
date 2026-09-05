@@ -1,80 +1,14 @@
 {
- "collected": "2026-09-05T10:59+00:00",
+ "collected": "2026-09-05T19:38+00:00",
  "items": [
   {
-   "headline": "Carrick happy with transfer business; squad depth improved",
-   "summary": "Michael Carrick says Manchester United squad has improved despite lower net spend than promoted clubs, citing signings of Santos, Tielemans, Baleba and Darlow.",
-   "source": "Sky Sports",
-   "url": "https://www.skysports.com/football/news/11095/13580994/manchester-united-latest-michael-carrick-happy-with-transfer-business-and-convinced-that-his-squad-has-improved-after-summer-window",
-   "published": "04 Sep",
-   "category": "club",
-   "tone": 1,
-   "is_rumour": false,
-   "rumour_subject": "",
-   "source_tier": 3,
-   "people": [
-    "Michael Carrick"
-   ]
-  },
-  {
-   "headline": "Five players ruled out for Everton fixture with injury concerns mounting",
-   "summary": "Manchester United missing Matthijs de Ligt, Amad Diallo, Carlos Baleba, Tom Heaton and Manuel Ugarte for Sunday's trip to Everton.",
-   "source": "Goal",
-   "url": "https://www.goal.com/en/news/everton-manchester-united-premier-league-preview/bltc4cd7f6497714041",
-   "published": "04 Sep",
-   "category": "team news",
-   "tone": -1,
-   "is_rumour": false,
-   "rumour_subject": "",
-   "source_tier": 3,
-   "people": [
-    "Matthijs de Ligt",
-    "Amad Diallo",
-    "Carlos Baleba",
-    "Tom Heaton",
-    "Manuel Ugarte"
-   ]
-  },
-  {
-   "headline": "Carrick expects tough Everton test despite Moyes' transfer disappointment",
-   "summary": "United boss Carrick says Everton always a tough trip, noting Red Devils have better depth than Moyes who lost Ndiaye and Beto on deadline day.",
-   "source": "Yahoo Sports",
-   "url": "https://sports.yahoo.com/articles/michael-carrick-expects-tough-everton-094828150.html",
-   "published": "05 Sep",
-   "category": "match",
-   "tone": 1,
-   "is_rumour": false,
-   "rumour_subject": "",
-   "source_tier": 3,
-   "people": [
-    "Michael Carrick",
-    "David Moyes"
-   ]
-  },
-  {
-   "headline": "Zirkzee stays at Old Trafford despite exit links; Carrick backs Dutchman",
-   "summary": "Joshua Zirkzee remained at Manchester United after speculation linking him to Juventus and Fiorentina; Carrick expects him to play more.",
-   "source": "ManUNews",
-   "url": "https://manutdnews.com/michael-carrick-sends-clear-message-on-joshua-zirkzee-ahead-of-man-united-clash-with-everton",
-   "published": "04 Sep",
-   "category": "team news",
-   "tone": 1,
-   "is_rumour": false,
-   "rumour_subject": "",
-   "source_tier": 3,
-   "people": [
-    "Joshua Zirkzee",
-    "Michael Carrick"
-   ]
-  },
-  {
-   "headline": "Bradbury seals Stoke departure after academy exit",
-   "summary": "Youth striker Louie Bradbury has left Manchester United to sign with Stoke City.",
-   "source": "Manchester United Official",
+   "headline": "Louie Bradbury joins Stoke City after leaving Manchester United academy",
+   "summary": "Youth academy striker Louie Bradbury has departed Manchester United and signed with Stoke City.",
+   "source": "Manchester United",
    "url": "https://www.manutd.com/en/news",
-   "published": "04 Sep",
+   "published": "05 Sep",
    "category": "transfers",
-   "tone": 0,
+   "tone": -1,
    "is_rumour": false,
    "rumour_subject": "",
    "source_tier": 1,
@@ -83,18 +17,47 @@
    ]
   },
   {
-   "headline": "Biancheri joins FC Wacker Innsbruck on loan",
-   "summary": "Manchester United academy player joins Austrian club on loan deal.",
-   "source": "Manchester United Official",
+   "headline": "Manchester United submit Champions League squad for 2026-27 season",
+   "summary": "United confirmed their 25-man Champions League squad selection including an 18-year-old prospect.",
+   "source": "Manchester United",
    "url": "https://www.manutd.com/en/news",
-   "published": "03 Sep",
-   "category": "transfers",
+   "published": "05 Sep",
+   "category": "club",
+   "tone": 0,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 1,
+   "people": []
+  },
+  {
+   "headline": "Michael Carrick assesses Manchester United's transfer window",
+   "summary": "Manager Michael Carrick provided assessment of the club's transfer activity during the 2026 summer window.",
+   "source": "Manchester United",
+   "url": "https://www.manutd.com/en/news",
+   "published": "05 Sep",
+   "category": "club",
    "tone": 0,
    "is_rumour": false,
    "rumour_subject": "",
    "source_tier": 1,
    "people": [
-    "Biancheri"
+    "Michael Carrick"
+   ]
+  },
+  {
+   "headline": "Patrick Dorgu positioned to solve Manchester United left-back shortage",
+   "summary": "Manager Michael Carrick suggests Patrick Dorgu can fill left-back role after deadline day transfer window closed.",
+   "source": "Goal.com",
+   "url": "",
+   "published": "04 Sep",
+   "category": "team news",
+   "tone": 1,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 3,
+   "people": [
+    "Michael Carrick",
+    "Patrick Dorgu"
    ]
   }
  ]
