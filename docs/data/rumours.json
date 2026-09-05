@@ -72,7 +72,7 @@
   "last_seen": "2026-09-01",
   "mentions": 5,
   "best_tier": 3,
-  "temperature": 1.6,
+  "temperature": 1.0,
   "sources": [
    "Bleacher Report",
    "United In Focus",
@@ -114,7 +114,7 @@
   "last_seen": "2026-09-03",
   "mentions": 2,
   "best_tier": 3,
-  "temperature": 4.4,
+  "temperature": 3.4,
   "sources": [
    "Last Word on Sports",
    "Multiple sources"
@@ -164,7 +164,7 @@
   "last_seen": "2026-09-01",
   "mentions": 1,
   "best_tier": 4,
-  "temperature": 1.6,
+  "temperature": 1.0,
   "sources": [
    "Sports Illustrated"
   ],
@@ -176,7 +176,7 @@
   "last_seen": "2026-09-01",
   "mentions": 1,
   "best_tier": 3,
-  "temperature": 3.8,
+  "temperature": 2.3,
   "sources": [
    "Yahoo Sports"
   ],
