@@ -1,12 +1,12 @@
 {
- "collected": "2026-09-06T11:24+00:00",
+ "collected": "2026-09-06T19:40+00:00",
  "items": [
   {
    "headline": "Bruno Fernandes named Player of the Month for August",
-   "summary": "Manchester United captain Bruno Fernandes wins Player of the Month award after outstanding end to August, including hat-trick against Ipswich.",
-   "source": "Manchester United (Official)",
+   "summary": "Manchester United captain Bruno Fernandes wins the August award after an excellent end to the month.",
+   "source": "Manchester United",
    "url": "https://www.manutd.com/en/news",
-   "published": "5 Sep",
+   "published": "05 Sep",
    "category": "team news",
    "tone": 2,
    "is_rumour": false,
@@ -17,11 +17,11 @@
    ]
   },
   {
-   "headline": "Bryan Mbeumo wins Goal of the Month for August",
-   "summary": "Manchester United midfielder Bryan Mbeumo awarded Goal of the Month for August after impressive scoring contribution.",
-   "source": "Manchester United (Official)",
+   "headline": "Mbeumo wins August's Goal of the Month",
+   "summary": "Bryan Mbeumo's performance earns him August Goal of the Month award.",
+   "source": "Manchester United",
    "url": "https://www.manutd.com/en/news",
-   "published": "5 Sep",
+   "published": "05 Sep",
    "category": "team news",
    "tone": 2,
    "is_rumour": false,
@@ -32,49 +32,34 @@
    ]
   },
   {
-   "headline": "Mason Mount returns to full training ahead of Everton fixture",
-   "summary": "Michael Carrick confirms Mason Mount back in full training after recent absence, available for selection against Everton.",
-   "source": "Goal.com",
-   "url": "https://www.goal.com/en/news/everton-manchester-united-premier-league-preview/bltc4cd7f6497714041",
-   "published": "5 Sep",
-   "category": "team news",
-   "tone": 2,
-   "is_rumour": false,
-   "rumour_subject": "",
-   "source_tier": 3,
-   "people": [
-    "Mason Mount",
-    "Michael Carrick"
-   ]
-  },
-  {
-   "headline": "Louie Bradbury departs Manchester United for Stoke City",
-   "summary": "Academy striker Louie Bradbury seals move away from Manchester United to join Stoke City.",
-   "source": "Bleacher Report",
-   "url": "https://bleacherreport.com/manchester-united",
-   "published": "4 Sep",
-   "category": "transfers",
+   "headline": "Manchester United draw 2-2 at Everton in dramatic finish",
+   "summary": "Ainsley Maitland-Niles scores in 90+5 minute to deny United victory. Carrick's side concede late despite leading.",
+   "source": "Sky Sports",
+   "url": "",
+   "published": "06 Sep",
+   "category": "match",
    "tone": -1,
    "is_rumour": false,
    "rumour_subject": "",
    "source_tier": 3,
    "people": [
-    "Louie Bradbury"
+    "Michael Carrick",
+    "Ainsley Maitland-Niles"
    ]
   },
   {
-   "headline": "Manchester United to revive Louis Page transfer talks",
-   "summary": "Manchester United could reopen discussions for Leicester midfielder Louis Page after deadline-day collapse over £15m valuation.",
-   "source": "Bleacher Report",
-   "url": "https://bleacherreport.com/manchester-united",
-   "published": "4 Sep",
-   "category": "transfers",
-   "tone": 0,
+   "headline": "Bruno Fernandes subject to Saudi Arabia and Turkey interest",
+   "summary": "Intensifying interest from Saudi Arabia and Turkey in United captain. Club moving to trigger extension on current deal.",
+   "source": "Goal.com",
+   "url": "https://www.goal.com/en/team/manchester-united/6eqit8ye8aomdsrrq0hk3v7gh",
+   "published": "06 Sep",
+   "category": "club",
+   "tone": -1,
    "is_rumour": true,
-   "rumour_subject": "Louis Page",
+   "rumour_subject": "Bruno Fernandes",
    "source_tier": 3,
    "people": [
-    "Louis Page"
+    "Bruno Fernandes"
    ]
   }
  ]
