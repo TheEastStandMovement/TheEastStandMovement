@@ -1,6 +1,6 @@
 {
  "window_days": 30,
- "updated": "2026-09-06",
+ "updated": "2026-09-07",
  "board": [
   {
    "name": "Michael Carrick",
@@ -48,6 +48,16 @@
    "last": "2026-08-13"
   },
   {
+   "name": "Casemiro",
+   "count": 4,
+   "last": "2026-09-07"
+  },
+  {
+   "name": "Rasmus Hojlund",
+   "count": 4,
+   "last": "2026-09-07"
+  },
+  {
    "name": "Semi Ajayi",
    "count": 4,
    "last": "2026-08-25"
@@ -63,19 +73,9 @@
    "last": "2026-09-05"
   },
   {
-   "name": "Casemiro",
-   "count": 3,
-   "last": "2026-09-02"
-  },
-  {
    "name": "Harry Maguire",
    "count": 3,
    "last": "2026-09-02"
-  },
-  {
-   "name": "Karl Darlow",
-   "count": 3,
-   "last": "2026-08-19"
   }
  ]
 }
