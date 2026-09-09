@@ -1,28 +1,13 @@
 {
- "collected": "2026-09-09T12:00+00:00",
+ "collected": "2026-09-09T20:07+00:00",
  "items": [
   {
-   "headline": "Rashford wins Player of the Match vote after Everton draw",
-   "summary": "Marcus Rashford earned Player of the Match recognition in Manchester United's 2-2 draw with Everton in the Premier League.",
-   "source": "Manchester United",
-   "url": "https://www.manutd.com/en/news",
-   "published": "08 Sep",
+   "headline": "United beat Ipswich 5-2, draw 2-2 at Everton in opening weeks",
+   "summary": "Michael Carrick's side enjoyed a strong home win against Ipswich but drew 2-2 away to Everton, leaving them searching for consistency after losing to Hull City",
+   "source": "Manchester United / CentreDevils",
+   "url": "https://centredevils.co.uk/news/september-2026-manchester-derby-set-to-be-rescheduled/",
+   "published": "6 Sep",
    "category": "match",
-   "tone": 1,
-   "is_rumour": false,
-   "rumour_subject": "",
-   "source_tier": 1,
-   "people": [
-    "Marcus Rashford"
-   ]
-  },
-  {
-   "headline": "Michael Carrick to make changes for Sabah Champions League tie",
-   "summary": "Manager Michael Carrick preparing tactical adjustments for upcoming Champions League match against Sabah, with one £48m player returning to lineup.",
-   "source": "Man Utd News",
-   "url": "",
-   "published": "08 Sep",
-   "category": "team news",
    "tone": 0,
    "is_rumour": false,
    "rumour_subject": "",
@@ -32,33 +17,81 @@
    ]
   },
   {
-   "headline": "James Overy departs Manchester United",
-   "summary": "Club official James Overy has left Manchester United.",
-   "source": "Manchester United",
-   "url": "https://www.manutd.com/en/news",
-   "published": "07 Sep",
+   "headline": "Manchester derby rescheduled, U21s fixture postponed",
+   "summary": "This weekend's Manchester derby has been rescheduled following a late fixture change. Impact on youth team match planning during busy schedule noted.",
+   "source": "CentreDevils",
+   "url": "https://centredevils.co.uk/news/september-2026-manchester-derby-set-to-be-rescheduled/",
+   "published": "9 Sep",
    "category": "club",
+   "tone": 0,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 3,
+   "people": []
+  },
+  {
+   "headline": "Mason Mount sidelined with muscle injury ahead of upcoming fixture",
+   "summary": "United midfielder Mason Mount ruled out for a few games due to minor muscle injury sustained in recent match. Multiple defensive injuries also confirmed.",
+   "source": "ESPN",
+   "url": "https://global.espn.com/soccer/story/_/id/41042705/man-united-mason-mount-frustrated-injury",
+   "published": "5 Sep",
+   "category": "team news",
    "tone": -1,
    "is_rumour": false,
    "rumour_subject": "",
-   "source_tier": 1,
+   "source_tier": 3,
    "people": [
-    "James Overy"
+    "Mason Mount",
+    "Rasmus Højlund",
+    "Luke Shaw",
+    "Leny Yoro",
+    "Tyrell Malacia",
+    "Victor Lindelof"
    ]
   },
   {
-   "headline": "Diogo Dalot delights youngsters at Foundation camp",
-   "summary": "Defender Diogo Dalot participated in Manchester United Foundation youth camp activity.",
-   "source": "Manchester United",
-   "url": "https://www.manutd.com/en/news",
-   "published": "04 Sep",
-   "category": "club",
+   "headline": "Isaac Konde completes transfer from Liverpool to Manchester United",
+   "summary": "Manchester United have signed Liverpool academy prospect Isaac Konde. Deal completed as part of summer business.",
+   "source": "United In Focus",
+   "url": "https://www.unitedinfocus.com/",
+   "published": "5 Sep",
+   "category": "transfers",
    "tone": 1,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 3,
+   "people": [
+    "Isaac Konde"
+   ]
+  },
+  {
+   "headline": "Biancheri joins FC Wacker Innsbruck on loan from Manchester United",
+   "summary": "Young Manchester United player completes loan move to Austrian side FC Wacker Innsbruck as part of academy development strategy.",
+   "source": "Manchester United",
+   "url": "",
+   "published": "3 Sep",
+   "category": "transfers",
+   "tone": 0,
    "is_rumour": false,
    "rumour_subject": "",
    "source_tier": 1,
    "people": [
-    "Diogo Dalot"
+    "Biancheri"
+   ]
+  },
+  {
+   "headline": "United face Sabah in Champions League opener Thursday",
+   "summary": "Michael Carrick's side prepare for Champions League group phase opener against Sabah FK on Thursday before Manchester City clash.",
+   "source": "CentreDevils",
+   "url": "https://centredevils.co.uk/news/september-2026-manchester-derby-set-to-be-rescheduled/",
+   "published": "9 Sep",
+   "category": "match",
+   "tone": 0,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 3,
+   "people": [
+    "Michael Carrick"
    ]
   }
  ]
