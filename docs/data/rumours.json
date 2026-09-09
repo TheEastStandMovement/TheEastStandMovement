@@ -115,7 +115,7 @@
   "last_seen": "2026-09-03",
   "mentions": 2,
   "best_tier": 3,
-  "temperature": 0.4,
+  "temperature": 0.2,
   "sources": [
    "Last Word on Sports",
    "Multiple sources"
@@ -133,7 +133,8 @@
   "sources": [
    "Stretty News/Telegraaf"
   ],
-  "status": "live"
+  "status": "cold",
+  "lifespan_days": 0
  },
  "bruno-fernandes": {
   "subject": "Bruno Fernandes",
@@ -141,7 +142,7 @@
   "last_seen": "2026-09-06",
   "mentions": 2,
   "best_tier": 3,
-  "temperature": 8.2,
+  "temperature": 5.6,
   "sources": [
    "TEAMtalk",
    "Goal.com"
@@ -178,7 +179,7 @@
   "last_seen": "2026-09-01",
   "mentions": 1,
   "best_tier": 3,
-  "temperature": 0.1,
+  "temperature": 0.0,
   "sources": [
    "Yahoo Sports"
   ],
@@ -190,7 +191,7 @@
   "last_seen": "2026-09-06",
   "mentions": 1,
   "best_tier": 3,
-  "temperature": 8.2,
+  "temperature": 5.6,
   "sources": [
    "Bleacher Report"
   ],
