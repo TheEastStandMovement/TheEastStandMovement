@@ -142,7 +142,7 @@
   "last_seen": "2026-09-06",
   "mentions": 2,
   "best_tier": 3,
-  "temperature": 2.3,
+  "temperature": 1.4,
   "sources": [
    "TEAMtalk",
    "Goal.com"
@@ -191,9 +191,21 @@
   "last_seen": "2026-09-06",
   "mentions": 1,
   "best_tier": 3,
-  "temperature": 2.3,
+  "temperature": 1.4,
   "sources": [
    "Bleacher Report"
+  ],
+  "status": "live"
+ },
+ "kobbie-mainoo-harry-maguire": {
+  "subject": "Kobbie Mainoo, Harry Maguire",
+  "first_seen": "2026-09-10",
+  "last_seen": "2026-09-10",
+  "mentions": 1,
+  "best_tier": 4,
+  "temperature": 5.0,
+  "sources": [
+   "FotMob"
   ],
   "status": "live"
  }

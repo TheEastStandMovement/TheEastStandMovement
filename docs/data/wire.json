@@ -1,14 +1,73 @@
 {
- "collected": "2026-09-10T11:55+00:00",
+ "collected": "2026-09-10T20:09+00:00",
  "items": [
   {
-   "headline": "Manchester derby set to be rescheduled following fixture change",
-   "summary": "This weekend's Manchester derby has been rescheduled with a new date expected to be announced.",
-   "source": "centredevils",
-   "url": "https://centredevils.co.uk/news/september-2026-manchester-derby-set-to-be-rescheduled/",
+   "headline": "Man Utd confirm Champions League squad for Sabah clash",
+   "summary": "Manchester United added eight players to their Champions League squad ahead of Thursday's UEFA league phase match against Sabah FC.",
+   "source": "Manchester United (official)",
+   "url": "https://www.manutd.com/en/news",
+   "published": "10 Sep",
+   "category": "team news",
+   "tone": 0,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 1,
+   "people": []
+  },
+  {
+   "headline": "Lisandro Martinez enters final year of contract with no extension agreed",
+   "summary": "Argentine defender Lisandro Martinez has entered the final year of his Manchester United contract and contract extension talks remain unresolved.",
+   "source": "Evening Standard",
+   "url": "",
+   "published": "10 Sep",
+   "category": "club",
+   "tone": -1,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 3,
+   "people": [
+    "Lisandro Martinez"
+   ]
+  },
+  {
+   "headline": "Andrey Santos earns reward for strong start to Old Trafford career",
+   "summary": "Summer signing Andrey Santos has impressed at Manchester United following his arrival from Benfica in the 2026 transfer window.",
+   "source": "The Peoples Person",
+   "url": "",
+   "published": "10 Sep",
+   "category": "team news",
+   "tone": 1,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 3,
+   "people": [
+    "Andrey Santos"
+   ]
+  },
+  {
+   "headline": "Man Utd close to new contracts for Kobbie Mainoo and Harry Maguire",
+   "summary": "Manchester United are close to agreeing new contract extensions with midfielder Kobbie Mainoo and defender Harry Maguire.",
+   "source": "FotMob",
+   "url": "",
    "published": "09 Sep",
    "category": "club",
-   "tone": 0,
+   "tone": 1,
+   "is_rumour": true,
+   "rumour_subject": "Kobbie Mainoo, Harry Maguire",
+   "source_tier": 4,
+   "people": [
+    "Kobbie Mainoo",
+    "Harry Maguire"
+   ]
+  },
+  {
+   "headline": "Carrick hints at transfer market difficulties after missing summer targets",
+   "summary": "Michael Carrick has referenced problems Manchester United faced in the transfer market after failing to complete deals for several targeted players.",
+   "source": "TEAMtalk",
+   "url": "",
+   "published": "06 Sep",
+   "category": "club",
+   "tone": -1,
    "is_rumour": false,
    "rumour_subject": "",
    "source_tier": 3,

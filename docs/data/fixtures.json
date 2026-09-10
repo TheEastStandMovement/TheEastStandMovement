@@ -1,11 +1,5 @@
 [
  {
-  "utcDate": "2026-09-10T19:00:00Z",
-  "home": "Man United",
-  "away": "Sabah FK",
-  "competition": "UEFA Champions League"
- },
- {
   "utcDate": "2026-09-13T15:30:00Z",
   "home": "Man United",
   "away": "Man City",
@@ -34,5 +28,11 @@
   "home": "Leeds United",
   "away": "Man United",
   "competition": "Premier League"
+ },
+ {
+  "utcDate": "2026-10-21T16:45:00Z",
+  "home": "Como 1907",
+  "away": "Man United",
+  "competition": "UEFA Champions League"
  }
 ]
