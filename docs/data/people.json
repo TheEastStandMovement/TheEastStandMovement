@@ -1,10 +1,10 @@
 {
  "window_days": 30,
- "updated": "2026-09-10",
+ "updated": "2026-09-11",
  "board": [
   {
    "name": "Michael Carrick",
-   "count": 52,
+   "count": 51,
    "last": "2026-09-10"
   },
   {
@@ -43,11 +43,6 @@
    "last": "2026-08-25"
   },
   {
-   "name": "Harry Maguire",
-   "count": 4,
-   "last": "2026-09-10"
-  },
-  {
    "name": "Mason Mount",
    "count": 4,
    "last": "2026-09-09"
@@ -66,6 +61,11 @@
    "name": "Amad Diallo",
    "count": 3,
    "last": "2026-09-05"
+  },
+  {
+   "name": "Harry Maguire",
+   "count": 3,
+   "last": "2026-09-10"
   },
   {
    "name": "Karl Darlow",
