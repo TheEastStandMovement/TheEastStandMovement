@@ -1,12 +1,27 @@
 {
- "collected": "2026-09-13T12:23+00:00",
+ "collected": "2026-09-13T19:56+00:00",
  "items": [
   {
+   "headline": "Manchester United 0 Manchester City 1 - Match Report",
+   "summary": "United lost 0-1 to Manchester City in the Manchester derby. Carrick named the team ahead of the match.",
+   "source": "Manchester United Official",
+   "url": "https://www.manutd.com/en",
+   "published": "13 Sep",
+   "category": "match",
+   "tone": -2,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 1,
+   "people": [
+    "Michael Carrick"
+   ]
+  },
+  {
    "headline": "Ugarte continues rehabilitation at Carrington",
-   "summary": "Manchester United midfielder Manuel Ugarte progressing with recovery at training ground.",
-   "source": "Manchester United",
-   "url": "https://www.manutd.com/en/news",
-   "published": "12 Sep",
+   "summary": "Midfielder Manuel Ugarte is continuing his recovery from injury at United's training facility.",
+   "source": "Manchester United Official",
+   "url": "https://www.manutd.com/en",
+   "published": "11 Sep",
    "category": "team news",
    "tone": 0,
    "is_rumour": false,
@@ -14,21 +29,6 @@
    "source_tier": 1,
    "people": [
     "Manuel Ugarte"
-   ]
-  },
-  {
-   "headline": "Carrick previews Manchester derby with positive outlook",
-   "summary": "Manager Michael Carrick holds press conference ahead of Manchester City match.",
-   "source": "Manchester United",
-   "url": "https://www.manutd.com/en/news",
-   "published": "11 Sep",
-   "category": "match",
-   "tone": 0,
-   "is_rumour": false,
-   "rumour_subject": "",
-   "source_tier": 1,
-   "people": [
-    "Michael Carrick"
    ]
   }
  ]

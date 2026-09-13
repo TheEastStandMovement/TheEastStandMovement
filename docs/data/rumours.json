@@ -142,7 +142,7 @@
   "last_seen": "2026-09-06",
   "mentions": 2,
   "best_tier": 3,
-  "temperature": 0.3,
+  "temperature": 0.1,
   "sources": [
    "TEAMtalk",
    "Goal.com"
@@ -192,7 +192,7 @@
   "last_seen": "2026-09-06",
   "mentions": 1,
   "best_tier": 3,
-  "temperature": 0.3,
+  "temperature": 0.1,
   "sources": [
    "Bleacher Report"
   ],
@@ -204,7 +204,7 @@
   "last_seen": "2026-09-10",
   "mentions": 1,
   "best_tier": 4,
-  "temperature": 3.0,
+  "temperature": 2.0,
   "sources": [
    "FotMob"
   ],
