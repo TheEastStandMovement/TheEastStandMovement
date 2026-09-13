@@ -142,7 +142,7 @@
   "last_seen": "2026-09-06",
   "mentions": 2,
   "best_tier": 3,
-  "temperature": 0.7,
+  "temperature": 0.3,
   "sources": [
    "TEAMtalk",
    "Goal.com"
@@ -159,7 +159,8 @@
   "sources": [
    "Multiple sources"
   ],
-  "status": "live"
+  "status": "cold",
+  "lifespan_days": 0
  },
  "marcus-rashford-joshua-zirkzee": {
   "subject": "Marcus Rashford, Joshua Zirkzee",
@@ -191,7 +192,7 @@
   "last_seen": "2026-09-06",
   "mentions": 1,
   "best_tier": 3,
-  "temperature": 0.7,
+  "temperature": 0.3,
   "sources": [
    "Bleacher Report"
   ],
@@ -203,7 +204,7 @@
   "last_seen": "2026-09-10",
   "mentions": 1,
   "best_tier": 4,
-  "temperature": 4.4,
+  "temperature": 3.0,
   "sources": [
    "FotMob"
   ],
