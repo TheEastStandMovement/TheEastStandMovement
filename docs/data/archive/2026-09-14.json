@@ -1,37 +1,49 @@
 {
- "collected": "2026-09-14T13:26+00:00",
+ "collected": "2026-09-14T21:06+00:00",
  "items": [
   {
-   "headline": "Manchester United lose 1-0 to Manchester City in derby despite dominating play",
-   "summary": "United suffered a home defeat at Old Trafford with controversial refereeing decisions dominating post-match discussion",
-   "source": "United In Focus",
-   "url": "https://www.unitedinfocus.com/",
-   "published": "9 Sep",
-   "category": "match",
-   "tone": -1,
+   "headline": "Manchester United Women lose 5-0 to Chelsea in WSL; Eva Olid's new era off to difficult start",
+   "summary": "United Women were defeated 5-0 by Chelsea with goals from Nusken, Walsh, James, Carpenter and Bronze. Manager Eva Olid overseeing the team.",
+   "source": "Manchester United",
+   "url": "https://www.manutd.com/en/news",
+   "published": "14 Sep",
+   "category": "team news",
+   "tone": -2,
    "is_rumour": false,
    "rumour_subject": "",
-   "source_tier": 3,
+   "source_tier": 1,
+   "people": [
+    "Eva Olid"
+   ]
+  },
+  {
+   "headline": "Manchester derby set for Old Trafford; Carrick names team with several injury concerns",
+   "summary": "Michael Carrick has named the squad for the upcoming Manchester derby against City at Old Trafford with multiple players unavailable.",
+   "source": "Manchester United",
+   "url": "https://www.manutd.com/en/news",
+   "published": "13 Sep",
+   "category": "match",
+   "tone": 0,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 1,
    "people": [
     "Michael Carrick"
    ]
   },
   {
-   "headline": "Sabah defeated 4-0 in Champions League qualification",
-   "summary": "Manchester United won decisively with goals from Matheus Cunha, Bruno Fernandes, Benjamin Sesko and Lisandro Martinez",
-   "source": "Sports Illustrated",
-   "url": "https://www.si.com/soccer/manchester-united",
-   "published": "10 Sep",
-   "category": "match",
-   "tone": 2,
+   "headline": "Benjamin Sesko discusses injury recovery and summer fitness preparation",
+   "summary": "Sesko has spoken about his recovery from injury and changes made to his fitness routine during the summer.",
+   "source": "Manchester United",
+   "url": "https://www.manutd.com/en/news",
+   "published": "13 Sep",
+   "category": "team news",
+   "tone": 0,
    "is_rumour": false,
    "rumour_subject": "",
-   "source_tier": 3,
+   "source_tier": 1,
    "people": [
-    "Matheus Cunha",
-    "Bruno Fernandes",
-    "Benjamin Sesko",
-    "Lisandro Martinez"
+    "Benjamin Sesko"
    ]
   }
  ]
