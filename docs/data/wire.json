@@ -1,11 +1,11 @@
 {
- "collected": "2026-09-15T12:17+00:00",
+ "collected": "2026-09-15T20:32+00:00",
  "items": [
   {
-   "headline": "Manchester City defeats Manchester United 1-0 in derby with controversial refereeing decisions",
-   "summary": "Erling Haaland's goal secured City's 1-0 victory at Old Trafford in the 199th Manchester derby, with contentious decisions including Phil Foden's red card affecting the outcome.",
-   "source": "ESPN",
-   "url": "https://www.espn.com/soccer/report/_/gameId/401879278",
+   "headline": "Man City defeat leaves United struggling in derby, questions Carrick's start",
+   "summary": "Manchester United lost 1-0 to Manchester City despite having 10-man advantage for 60+ minutes after Phil Foden's early red card.",
+   "source": "Goal.com",
+   "url": "https://www.goal.com/en/news/manchester-united-brighton--hove-albion-efl-cup-preview/blt5e8caaeed5244ea4",
    "published": "13 Sep",
    "category": "match",
    "tone": -2,
@@ -14,9 +14,69 @@
    "source_tier": 3,
    "people": [
     "Michael Carrick",
-    "Enzo Maresca",
     "Erling Haaland",
-    "Phil Foden"
+    "Phil Foden",
+    "Bruno Fernandes"
+   ]
+  },
+  {
+   "headline": "United's poor start: one win in four, eight points behind Arsenal and City",
+   "summary": "After derby defeat, United have won only one of four Premier League matches without a clean sheet and conceded seven goals.",
+   "source": "101 Great Goals",
+   "url": "https://www.101greatgoals.com/match-previews/manchester-united-v-brighton-preview-expected-line-ups-stats-and-where-to-watch/",
+   "published": "15 Sep",
+   "category": "team news",
+   "tone": -1,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 3,
+   "people": []
+  },
+  {
+   "headline": "Carrick faces Brighton in Carabao Cup after derby defeat; expected to rotate squad",
+   "summary": "Manchester United host Brighton in Carabao Cup third round on 16 September with Carrick likely to rotate after Manchester City loss.",
+   "source": "Football365",
+   "url": "https://www.football365.com/match-preview/man-utd-v-brighton-prediction-preview",
+   "published": "15 Sep",
+   "category": "match",
+   "tone": 0,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 3,
+   "people": [
+    "Michael Carrick"
+   ]
+  },
+  {
+   "headline": "Brighton beat United 3-0 in May; history suggests high-scoring fixture ahead",
+   "summary": "Brighton defeated United 3-0 in May 2026, with previous three meetings all high-scoring. United won most recent at Old Trafford 4-2.",
+   "source": "Yardbarker",
+   "url": "https://www.yardbarker.com/soccer/articles/manchester_united_vs_brighton_preview_h2h_last_3_matches_prediction_and_kick_off_time/s1_17702_44302271",
+   "published": "14 Sep",
+   "category": "match",
+   "tone": 0,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 3,
+   "people": [
+    "Patrick Dorgu",
+    "Bryan Mbeumo",
+    "Bruno Fernandes"
+   ]
+  },
+  {
+   "headline": "Grimsby Town eliminated United last season; early EFL Cup exit would pile on pressure",
+   "summary": "United lost to fourth-tier Grimsby Town in second round last season and cannot afford another early Carabao Cup exit.",
+   "source": "101 Great Goals",
+   "url": "https://www.101greatgoals.com/match-previews/manchester-united-v-brighton-preview-expected-line-ups-stats-and-where-to-watch/",
+   "published": "15 Sep",
+   "category": "club",
+   "tone": -1,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 3,
+   "people": [
+    "Michael Carrick"
    ]
   }
  ]
