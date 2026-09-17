@@ -1,51 +1,34 @@
 {
- "collected": "2026-09-17T12:16+00:00",
+ "collected": "2026-09-17T20:38+00:00",
  "items": [
   {
-   "headline": "Manchester United face Brighton in Carabao Cup",
-   "summary": "United prepare to face Brighton having lost their previous cup match. Michael Carrick focused on returning to winning form.",
-   "source": "Manchester United Official",
-   "url": "https://www.manutd.com/en/news",
+   "headline": "Manchester United knocked out of Carabao Cup by Brighton",
+   "summary": "Man Utd lost 2-3 to Brighton in Carabao Cup, conceding a late equalizer despite leading 2-0",
+   "source": "Multiple outlets",
+   "url": "",
    "published": "17 Sep",
    "category": "match",
+   "tone": -2,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 3,
+   "people": [
+    "Michael Carrick"
+   ]
+  },
+  {
+   "headline": "Carlos Baleba continues recovery, trains at Carrington",
+   "summary": "The summer signing from Brighton trains at United's facility as he works his way back from ankle injury",
+   "source": "Manchester United",
+   "url": "https://www.manutd.com",
+   "published": "16 Sep",
+   "category": "team news",
    "tone": 0,
    "is_rumour": false,
    "rumour_subject": "",
    "source_tier": 1,
    "people": [
-    "Michael Carrick"
-   ]
-  },
-  {
-   "headline": "Carlos Baleba trains at Carrington",
-   "summary": "Manchester United midfielder Carlos Baleba returned to team training after recent absence, boosting Michael Carrick's midfield options.",
-   "source": "Manchester United Official",
-   "url": "https://www.manutd.com/en/news",
-   "published": "16 Sep",
-   "category": "team news",
-   "tone": 1,
-   "is_rumour": false,
-   "rumour_subject": "",
-   "source_tier": 1,
-   "people": [
-    "Carlos Baleba",
-    "Michael Carrick"
-   ]
-  },
-  {
-   "headline": "Academy players offered professional contracts for 2026/27",
-   "summary": "Manchester United hand out three professional contracts to academy players ahead of the 2026/27 season.",
-   "source": "United In Focus",
-   "url": "",
-   "published": "15 Sep",
-   "category": "club",
-   "tone": 1,
-   "is_rumour": false,
-   "rumour_subject": "",
-   "source_tier": 3,
-   "people": [
-    "Noah Ajayi",
-    "JJ Gabriel"
+    "Carlos Baleba"
    ]
   }
  ]
