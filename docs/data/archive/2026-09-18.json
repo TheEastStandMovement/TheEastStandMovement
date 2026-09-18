@@ -1,76 +1,45 @@
 {
- "collected": "2026-09-18T11:56+00:00",
+ "collected": "2026-09-18T20:04+00:00",
  "items": [
   {
-   "headline": "Manchester United lose Manchester Derby to City amid controversial refereeing",
-   "summary": "Manchester United fell 1-0 to Manchester City in a contentious derby featuring refereeing errors. The match saw Phil Foden sent off in controversial circumstances.",
-   "source": "Manchester United Official",
+   "headline": "Brighton prepare for Carabao Cup clash with Manchester United",
+   "summary": "Manchester United face Brighton in the Carabao Cup. Carlos Baleba trains at Carrington after recent ankle issue.",
+   "source": "Manchester United (Official)",
    "url": "https://www.manutd.com/en/news",
-   "published": "16 Sep",
+   "published": "18 Sep",
    "category": "match",
-   "tone": -2,
+   "tone": 0,
    "is_rumour": false,
    "rumour_subject": "",
    "source_tier": 1,
    "people": [
     "Michael Carrick",
-    "Bruno Fernandes",
-    "Phil Foden"
+    "Carlos Baleba"
    ]
   },
   {
-   "headline": "Baleba completes Brighton transfer, trains at Carrington",
-   "summary": "Carlos Baleba has joined Manchester United from Brighton. He trained at Carrington but is yet to make his competitive debut.",
-   "source": "Manchester United Official",
+   "headline": "Michael Carrick addresses upcoming fixture; Carlos Baleba progressing",
+   "summary": "Manager discusses Brighton preparation at press conference; new signing Baleba continuing recovery from ankle injury to be available soon.",
+   "source": "Manchester United (Official)",
    "url": "https://www.manutd.com/en/news",
    "published": "17 Sep",
-   "category": "team news",
-   "tone": 1,
-   "is_rumour": false,
-   "rumour_subject": "",
-   "source_tier": 1,
-   "people": [
-    "Carlos Baleba",
-    "Michael Carrick"
-   ]
-  },
-  {
-   "headline": "Three academy players sign professional contracts for 2026/27 season",
-   "summary": "Manchester United handed professional contracts to three academy players for the 2026/27 season, with Noah Ajayi close to agreement on his first pro deal.",
-   "source": "Manchester United Official",
-   "url": "https://www.manutd.com/en/news",
-   "published": "17 Sep",
-   "category": "club",
-   "tone": 1,
-   "is_rumour": false,
-   "rumour_subject": "",
-   "source_tier": 1,
-   "people": [
-    "Noah Ajayi"
-   ]
-  },
-  {
-   "headline": "Carrick insists Manchester Derby defeat will not change season trajectory",
-   "summary": "Manager Michael Carrick addressed the Manchester Derby loss, stating the setback will not alter Manchester United's season plans ahead of upcoming fixtures.",
-   "source": "Manchester United Official",
-   "url": "https://www.manutd.com/en/news",
-   "published": "15 Sep",
    "category": "team news",
    "tone": 0,
    "is_rumour": false,
    "rumour_subject": "",
    "source_tier": 1,
    "people": [
-    "Michael Carrick"
+    "Michael Carrick",
+    "Carlos Baleba"
    ]
   },
   {
-   "headline": "Real Madrid reportedly pushing for academy prospect JJ Gabriel",
-   "summary": "Real Madrid are targeting Manchester United academy player JJ Gabriel, who recently indicated frustration over lack of first-team opportunities.",
+   "headline": "JJ Gabriel seeks to leave Manchester United with top European clubs circling",
+   "summary": "Academy prospect JJ Gabriel has requested departure; Real Madrid and European clubs monitoring as his 16th birthday approaches.",
    "source": "Manchester Evening News",
    "url": "",
-   "published": "18 Sep",
-   "category": "transfers",
+   "published": "17 Sep",
+   "category": "club",
    "tone": -1,
    "is_rumour": true,
    "rumour_subject": "JJ Gabriel",
