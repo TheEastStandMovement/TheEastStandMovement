@@ -1,19 +1,19 @@
 {
  "window_days": 30,
- "updated": "2026-09-18",
+ "updated": "2026-09-19",
  "board": [
   {
    "name": "Michael Carrick",
-   "count": 53,
-   "last": "2026-09-18"
-  },
-  {
-   "name": "Bruno Fernandes",
-   "count": 18,
+   "count": 51,
    "last": "2026-09-18"
   },
   {
    "name": "Carlos Baleba",
+   "count": 19,
+   "last": "2026-09-19"
+  },
+  {
+   "name": "Bruno Fernandes",
    "count": 18,
    "last": "2026-09-18"
   },
@@ -23,19 +23,19 @@
    "last": "2026-09-09"
   },
   {
-   "name": "Andrey Santos",
+   "name": "JJ Gabriel",
    "count": 8,
+   "last": "2026-09-19"
+  },
+  {
+   "name": "Andrey Santos",
+   "count": 6,
    "last": "2026-09-10"
   },
   {
    "name": "Youri Tielemans",
-   "count": 8,
+   "count": 6,
    "last": "2026-09-04"
-  },
-  {
-   "name": "JJ Gabriel",
-   "count": 7,
-   "last": "2026-09-18"
   },
   {
    "name": "Nobel Mendy",
