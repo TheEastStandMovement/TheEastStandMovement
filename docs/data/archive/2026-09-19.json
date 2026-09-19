@@ -1,44 +1,29 @@
 {
- "collected": "2026-09-19T11:40+00:00",
+ "collected": "2026-09-19T19:41+00:00",
  "items": [
   {
-   "headline": "Baleba trains at Carrington ahead of Brighton Carabao Cup match",
-   "summary": "Carlos Baleba training with Manchester United squad after completing transfer from Brighton; expected to return to group in coming days.",
-   "source": "Manchester United Official",
-   "url": "https://www.manutd.com/en/news",
-   "published": "18 Sep",
-   "category": "team news",
-   "tone": 1,
-   "is_rumour": false,
-   "rumour_subject": "",
-   "source_tier": 1,
-   "people": [
-    "Carlos Baleba"
-   ]
-  },
-  {
-   "headline": "Manchester United announce three professional contracts to academy players",
-   "summary": "Club hands out three professional contracts to academy players for 2026/27 season; negotiations with Noah Ajayi reportedly close.",
-   "source": "Manchester Evening News",
+   "headline": "Manchester United lose Carabao Cup tie to Brighton 3-2 after being 2-0 up",
+   "summary": "Michael Carrick's side surrendered a two-goal lead to lose 3-2 to Brighton in the Carabao Cup on September 16.",
+   "source": "BBC Sport",
    "url": "",
    "published": "16 Sep",
-   "category": "club",
-   "tone": 1,
+   "category": "match",
+   "tone": -2,
    "is_rumour": false,
    "rumour_subject": "",
    "source_tier": 3,
    "people": [
-    "Noah Ajayi"
+    "Michael Carrick"
    ]
   },
   {
-   "headline": "JJ Gabriel requests departure from Manchester United academy",
-   "summary": "15-year-old academy prospect JJ Gabriel has asked to leave club; Real Madrid and Barcelona reported to be monitoring situation.",
-   "source": "Manchester Evening News",
+   "headline": "JJ Gabriel in Barcelona talks after requesting Manchester United exit",
+   "summary": "15-year-old academy prospect JJ Gabriel flew to Catalonia for talks with Barcelona after pushing for a move away from United.",
+   "source": "The Mirror",
    "url": "",
-   "published": "16 Sep",
+   "published": "18 Sep",
    "category": "transfers",
-   "tone": -2,
+   "tone": -1,
    "is_rumour": true,
    "rumour_subject": "JJ Gabriel",
    "source_tier": 3,

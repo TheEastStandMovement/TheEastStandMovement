@@ -214,11 +214,12 @@
   "subject": "JJ Gabriel",
   "first_seen": "2026-09-18",
   "last_seen": "2026-09-19",
-  "mentions": 3,
+  "mentions": 4,
   "best_tier": 3,
-  "temperature": 33.1,
+  "temperature": 45.1,
   "sources": [
-   "Manchester Evening News"
+   "Manchester Evening News",
+   "The Mirror"
   ],
   "status": "live"
  }
