@@ -213,13 +213,14 @@
  "jj-gabriel": {
   "subject": "JJ Gabriel",
   "first_seen": "2026-09-18",
-  "last_seen": "2026-09-19",
-  "mentions": 4,
+  "last_seen": "2026-09-20",
+  "mentions": 5,
   "best_tier": 3,
-  "temperature": 45.1,
+  "temperature": 44.7,
   "sources": [
    "Manchester Evening News",
-   "The Mirror"
+   "The Mirror",
+   "Yahoo Sports"
   ],
   "status": "live"
  }
