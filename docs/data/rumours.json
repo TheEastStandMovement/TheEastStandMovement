@@ -172,7 +172,8 @@
   "sources": [
    "Sports Illustrated"
   ],
-  "status": "live"
+  "status": "cold",
+  "lifespan_days": 0
  },
  "harry-amass": {
   "subject": "Harry Amass",
@@ -184,7 +185,8 @@
   "sources": [
    "Yahoo Sports"
   ],
-  "status": "live"
+  "status": "cold",
+  "lifespan_days": 0
  },
  "louis-page": {
   "subject": "Louis Page",
@@ -216,7 +218,7 @@
   "last_seen": "2026-09-20",
   "mentions": 5,
   "best_tier": 3,
-  "temperature": 34.6,
+  "temperature": 20.7,
   "sources": [
    "Manchester Evening News",
    "The Mirror",
