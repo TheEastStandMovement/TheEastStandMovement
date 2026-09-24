@@ -4,8 +4,8 @@
  "board": [
   {
    "name": "Michael Carrick",
-   "count": 46,
-   "last": "2026-09-22"
+   "count": 47,
+   "last": "2026-09-24"
   },
   {
    "name": "Carlos Baleba",
@@ -33,6 +33,11 @@
    "last": "2026-09-10"
   },
   {
+   "name": "Benjamin Sesko",
+   "count": 4,
+   "last": "2026-09-24"
+  },
+  {
    "name": "Youri Tielemans",
    "count": 4,
    "last": "2026-09-22"
@@ -46,11 +51,6 @@
    "name": "Amad Diallo",
    "count": 3,
    "last": "2026-09-05"
-  },
-  {
-   "name": "Benjamin Sesko",
-   "count": 3,
-   "last": "2026-09-24"
   },
   {
    "name": "Bryan Mbeumo",
