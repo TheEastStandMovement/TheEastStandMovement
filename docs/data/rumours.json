@@ -218,11 +218,23 @@
   "last_seen": "2026-09-20",
   "mentions": 5,
   "best_tier": 3,
-  "temperature": 12.4,
+  "temperature": 6.5,
   "sources": [
    "Manchester Evening News",
    "The Mirror",
    "Yahoo Sports"
+  ],
+  "status": "live"
+ },
+ "serhou-guirassy": {
+  "subject": "Serhou Guirassy",
+  "first_seen": "2026-09-25",
+  "last_seen": "2026-09-25",
+  "mentions": 1,
+  "best_tier": 3,
+  "temperature": 12.0,
+  "sources": [
+   "TEAMtalk"
   ],
   "status": "live"
  }
