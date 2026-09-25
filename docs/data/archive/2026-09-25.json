@@ -1,37 +1,49 @@
 {
- "collected": "2026-09-25T12:22+00:00",
+ "collected": "2026-09-25T20:48+00:00",
  "items": [
   {
-   "headline": "Sesko suffers recurring shin injury, ruled out of Slovenia duty",
-   "summary": "Benjamin Sesko withdrawn from Slovenia squad after recurring shin injury. Will undergo tests this week to determine recovery plan. Previously sidelined in May and missed all pre-season.",
-   "source": "The Athletic",
-   "url": "https://sports.yahoo.com/articles/manchester-united-await-benjamin-sesko-160330362.html",
-   "published": "21 Sep",
-   "category": "injuries",
-   "tone": -2,
+   "headline": "Karim Cassim signing confirmed",
+   "summary": "Manchester United confirm arrival of Karim Cassim described as 'fast, direct and very exciting prospect'",
+   "source": "Manchester United official",
+   "url": "https://www.manutd.com/en",
+   "published": "24 Sep",
+   "category": "team news",
+   "tone": 2,
    "is_rumour": false,
    "rumour_subject": "",
-   "source_tier": 2,
+   "source_tier": 1,
    "people": [
-    "Benjamin Sesko",
-    "Michael Carrick"
+    "Karim Cassim"
    ]
   },
   {
-   "headline": "Man Utd considers Serhou Guirassy move amid Sesko fitness concerns",
-   "summary": "Manchester United assessing January reinforcements for attack. Borussia Dortmund striker Guirassy under consideration following Sesko's recurring injury issues this season.",
-   "source": "TEAMtalk",
-   "url": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/09/man-utd-transfer-news-benjamin-sesko-injury-serhou-guirassy-dortmund",
-   "published": "23 Sep",
-   "category": "transfers",
-   "tone": -1,
-   "is_rumour": true,
-   "rumour_subject": "Serhou Guirassy",
-   "source_tier": 3,
+   "headline": "Connor King joins as assistant goalkeeping coach",
+   "summary": "Manchester United appoint Connor King to role of assistant goalkeeping coach",
+   "source": "Manchester United official",
+   "url": "https://www.manutd.com/en",
+   "published": "24 Sep",
+   "category": "club",
+   "tone": 0,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 1,
    "people": [
-    "Benjamin Sesko",
-    "Serhou Guirassy",
-    "Michael Carrick"
+    "Connor King"
+   ]
+  },
+  {
+   "headline": "Leny Yoro receives first senior France call-up",
+   "summary": "Defender Leny Yoro called up to senior France squad for first time",
+   "source": "Manchester United official",
+   "url": "https://www.manutd.com/en",
+   "published": "24 Sep",
+   "category": "team news",
+   "tone": 2,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 1,
+   "people": [
+    "Leny Yoro"
    ]
   }
  ]
