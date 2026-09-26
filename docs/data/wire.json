@@ -1,11 +1,11 @@
 {
- "collected": "2026-09-26T11:53+00:00",
+ "collected": "2026-09-26T20:16+00:00",
  "items": [
   {
-   "headline": "Sesko forced to withdraw from international break with injury setback",
-   "summary": "Benjamin Sesko missed Fulham game after suffering setback in Carabao Cup loss to Brighton. Latest injury may be recurrence of chronic issue with no clear return date.",
+   "headline": "Sesko forced to miss international break with recurring injury concern",
+   "summary": "Benjamin Sesko suffered a setback during Carabao Cup loss to Brighton and missed Fulham draw. Reports suggest recurrence of chronic shin injury with no clear return timeframe.",
    "source": "Football Transfers",
-   "url": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/09/man-utd-transfer-news-benjamin-sesko-igor-matanovic",
+   "url": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/09/man-utd-transfer-news-benjamin-sesko-serhou-guirassy-igor-matanovic",
    "published": "26 Sep",
    "category": "injuries",
    "tone": -2,
@@ -17,19 +17,18 @@
    ]
   },
   {
-   "headline": "United decision to avoid striker signing tested by Sesko fitness concerns",
-   "summary": "Manchester United's choice not to add backup striker in summer window being exposed by Benjamin Sesko's injury struggles, forcing Carrick to operate without recognised senior striker.",
-   "source": "Read Man Utd",
-   "url": "https://readmanutd.com/2026/09/23/manchester-united-s-most-obvious-transfer-blunder-of-the-summer/",
-   "published": "23 Sep",
-   "category": "club",
+   "headline": "United may need January striker signing due to Sesko fitness concerns",
+   "summary": "Manchester United could be forced into January transfer activity with ongoing uncertainty over Benjamin Sesko's availability and potential €40m deal being considered.",
+   "source": "Football Transfers",
+   "url": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/09/man-utd-transfer-news-benjamin-sesko-serhou-guirassy-igor-matanovic",
+   "published": "26 Sep",
+   "category": "transfers",
    "tone": -1,
-   "is_rumour": false,
-   "rumour_subject": "",
+   "is_rumour": true,
+   "rumour_subject": "Striker (unnamed)",
    "source_tier": 3,
    "people": [
-    "Benjamin Sesko",
-    "Michael Carrick"
+    "Benjamin Sesko"
    ]
   }
  ]
