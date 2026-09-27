@@ -1,65 +1,18 @@
 {
- "collected": "2026-09-27T12:33+00:00",
+ "collected": "2026-09-27T20:31+00:00",
  "items": [
   {
-   "headline": "Carlos Baleba trains at Carrington ahead of Brighton clash",
-   "summary": "Midfielder continues recovery from ankle injury suffered in pre-season, working towards potential return to action",
-   "source": "Manchester United",
+   "headline": "United back Michael Carrick after Brighton Carabao Cup defeat",
+   "summary": "Manchester United confirm they have no plans to part company with manager Michael Carrick despite 3-2 Carabao Cup loss to Brighton and difficult season start.",
+   "source": "TeamTalk",
    "url": "",
-   "published": "26 Sep",
-   "category": "team news",
-   "tone": 1,
-   "is_rumour": false,
-   "rumour_subject": "",
-   "source_tier": 1,
-   "people": [
-    "Carlos Baleba",
-    "Michael Carrick"
-   ]
-  },
-  {
-   "headline": "Leny Yoro receives first senior France call-up",
-   "summary": "Young defender called up to international squad for first time since joining Manchester United",
-   "source": "Manchester United",
-   "url": "",
-   "published": "24 Sep",
-   "category": "team news",
-   "tone": 2,
-   "is_rumour": false,
-   "rumour_subject": "",
-   "source_tier": 1,
-   "people": [
-    "Leny Yoro"
-   ]
-  },
-  {
-   "headline": "Karim Cassim signs for Manchester United",
-   "summary": "Young talent from Liverpool Academy joins Manchester United in deal described as recruitment of exciting prospect",
-   "source": "Manchester United",
-   "url": "",
-   "published": "24 Sep",
-   "category": "transfers",
-   "tone": 1,
-   "is_rumour": false,
-   "rumour_subject": "",
-   "source_tier": 1,
-   "people": [
-    "Karim Cassim"
-   ]
-  },
-  {
-   "headline": "Connor King joins as assistant goalkeeping coach",
-   "summary": "New coaching appointment added to Michael Carrick's backroom staff",
-   "source": "Manchester United",
-   "url": "",
-   "published": "24 Sep",
+   "published": "17 Sep",
    "category": "club",
    "tone": 0,
    "is_rumour": false,
    "rumour_subject": "",
-   "source_tier": 1,
+   "source_tier": 3,
    "people": [
-    "Connor King",
     "Michael Carrick"
    ]
   }

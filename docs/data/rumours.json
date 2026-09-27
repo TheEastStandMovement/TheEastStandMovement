@@ -218,7 +218,7 @@
   "last_seen": "2026-09-20",
   "mentions": 5,
   "best_tier": 3,
-  "temperature": 0.3,
+  "temperature": 0.1,
   "sources": [
    "Manchester Evening News",
    "The Mirror",
@@ -232,7 +232,7 @@
   "last_seen": "2026-09-25",
   "mentions": 1,
   "best_tier": 3,
-  "temperature": 7.2,
+  "temperature": 5.6,
   "sources": [
    "TEAMtalk"
   ],
@@ -244,7 +244,7 @@
   "last_seen": "2026-09-26",
   "mentions": 1,
   "best_tier": 3,
-  "temperature": 10.6,
+  "temperature": 9.3,
   "sources": [
    "Football Transfers"
   ],
