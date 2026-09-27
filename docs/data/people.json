@@ -1,16 +1,16 @@
 {
  "window_days": 30,
- "updated": "2026-09-26",
+ "updated": "2026-09-27",
  "board": [
   {
    "name": "Michael Carrick",
-   "count": 46,
-   "last": "2026-09-26"
+   "count": 47,
+   "last": "2026-09-27"
   },
   {
    "name": "Carlos Baleba",
-   "count": 16,
-   "last": "2026-09-19"
+   "count": 17,
+   "last": "2026-09-27"
   },
   {
    "name": "Bruno Fernandes",
@@ -38,11 +38,6 @@
    "last": "2026-09-22"
   },
   {
-   "name": "Alejandro Balde",
-   "count": 3,
-   "last": "2026-08-27"
-  },
-  {
    "name": "Amad Diallo",
    "count": 3,
    "last": "2026-09-05"
@@ -63,11 +58,6 @@
    "last": "2026-09-06"
   },
   {
-   "name": "Luke Shaw",
-   "count": 3,
-   "last": "2026-09-09"
-  },
-  {
    "name": "Marcus Rashford",
    "count": 3,
    "last": "2026-09-09"
@@ -76,6 +66,16 @@
    "name": "Mason Mount",
    "count": 3,
    "last": "2026-09-09"
+  },
+  {
+   "name": "Noah Ajayi",
+   "count": 3,
+   "last": "2026-09-19"
+  },
+  {
+   "name": "Phil Foden",
+   "count": 3,
+   "last": "2026-09-18"
   }
  ]
 }
