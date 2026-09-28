@@ -1,36 +1,82 @@
 {
- "collected": "2026-09-28T14:38+00:00",
+ "collected": "2026-09-28T22:41+00:00",
  "items": [
   {
-   "headline": "Red Devils hit with multiple injuries during international break",
-   "summary": "Patrick Dorgu joins Bruno Fernandes, Marcus Rashford and Kobbie Mainoo on treatment table during the international break.",
-   "source": "Yahoo Sports / Arthur Ferridge",
+   "headline": "Man United 1-1 Fulham: Late Cunha goal salvages point after poor display",
+   "summary": "Manchester United drew 1-1 at Fulham despite 29 shots and 57% possession. Gary Neville criticized the performance as the worst he'd seen in nearly 50 years.",
+   "source": "Goal.com",
+   "url": "https://www.goal.com/en/team/manchester-united/6eqit8ye8aomdsrrq0hk3v7gh",
+   "published": "23 Sep",
+   "category": "match",
+   "tone": -1,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 3,
+   "people": [
+    "Gary Neville",
+    "Michael Carrick",
+    "Matheus Cunha"
+   ]
+  },
+  {
+   "headline": "Patrick Dorgu suffers hamstring injury during Denmark international duty",
+   "summary": "Manchester United left-back Patrick Dorgu picked up a hamstring injury during Denmark's Nations League match, becoming latest first-team player sidelined.",
+   "source": "Goal.com / ESPN",
    "url": "",
-   "published": "28 Sep",
+   "published": "24 Sep",
    "category": "team news",
    "tone": -2,
    "is_rumour": false,
    "rumour_subject": "",
    "source_tier": 3,
    "people": [
-    "Patrick Dorgu",
-    "Bruno Fernandes",
-    "Marcus Rashford",
-    "Kobbie Mainoo"
+    "Patrick Dorgu"
    ]
   },
   {
-   "headline": "Manchester United monitoring Club Brugge left back Joaquin Seys",
-   "summary": "United reportedly eyeing defensive reinforcement with interest in Club Brugge full-back Joaquin Seys.",
-   "source": "ESPN",
-   "url": "",
-   "published": "28 Sep",
+   "headline": "Karim Cassim joins Manchester United from Manchester City",
+   "summary": "Midfielder Karim Cassim completed transfer from Manchester City to United on undisclosed terms, announced via official club channels.",
+   "source": "Manchester United official",
+   "url": "https://manutd.com/en?latest=",
+   "published": "26 Sep",
    "category": "transfers",
-   "tone": 0,
-   "is_rumour": true,
-   "rumour_subject": "Joaquín Seys",
-   "source_tier": 3,
-   "people": []
+   "tone": 1,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 1,
+   "people": [
+    "Karim Cassim"
+   ]
+  },
+  {
+   "headline": "David Eze joins United from Manchester City youth setup",
+   "summary": "Midfielder David Eze completed transfer from Manchester City on undisclosed terms, announced via official club channels.",
+   "source": "Manchester United official",
+   "url": "https://manutd.com/en?latest=",
+   "published": "26 Sep",
+   "category": "transfers",
+   "tone": 1,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 1,
+   "people": [
+    "David Eze"
+   ]
+  },
+  {
+   "headline": "Leny Yoro receives first senior France call-up",
+   "summary": "Manchester United defender Leny Yoro named in France senior squad, a positive development for the young centre-back.",
+   "source": "Manchester United official",
+   "url": "https://manutd.com/en?latest=",
+   "published": "26 Sep",
+   "category": "team news",
+   "tone": 2,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 1,
+   "people": [
+    "Leny Yoro"
+   ]
   }
  ]
 }
