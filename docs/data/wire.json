@@ -1,51 +1,99 @@
 {
- "collected": "2026-09-29T13:29+00:00",
+ "collected": "2026-09-29T21:35+00:00",
  "items": [
   {
-   "headline": "Dorgu returns to Manchester with hamstring injury from Denmark duty",
-   "summary": "Patrick Dorgu forced off after 30 minutes in Denmark's 2-0 Nations League win over Wales with suspected hamstring injury. Sent back for further assessment.",
-   "source": "Reuters/The Star",
-   "url": "https://www.thestar.com.my/sport/football/2026/09/28/soccer-denmark-send-injured-dorgu-back-to-man-united",
-   "published": "28 Sep",
-   "category": "injuries",
-   "tone": -2,
-   "is_rumour": false,
-   "rumour_subject": "",
-   "source_tier": 3,
-   "people": [
-    "Patrick Dorgu"
-   ]
-  },
-  {
-   "headline": "Dorgu hamstring injury adds to Man United's deepening medical crisis",
-   "summary": "Dorgu undergoing tests at Carrington after first-half exit. Availability for Tottenham clash Oct 10 now uncertain; Luke Shaw likely to continue at left-back.",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/soccer/headlines/patrick-dorgu-injury-set-for-hamstring-assessment-536283",
-   "published": "28 Sep",
-   "category": "injuries",
-   "tone": -2,
+   "headline": "Dorgu suffers hamstring injury on international duty for Denmark",
+   "summary": "Manchester United defender Patrick Dorgu was forced off after 30 minutes during Denmark's Nations League match, adding to mounting injury concerns during international break.",
+   "source": "Goal.com",
+   "url": "",
+   "published": "25 Sep",
+   "category": "team news",
+   "tone": -1,
    "is_rumour": false,
    "rumour_subject": "",
    "source_tier": 3,
    "people": [
     "Patrick Dorgu",
-    "Luke Shaw"
+    "Michael Carrick"
    ]
   },
   {
-   "headline": "Bruno Fernandes and Patrick Dorgu face fitness checks after international duty",
-   "summary": "United face dual injury concern with Dorgu sidelined by hamstring injury and Fernandes dealing with fitness issues during international break.",
-   "source": "Yahoo Sports",
-   "url": "https://sports.yahoo.com/articles/manchester-united-suffer-double-injury-133000437.html",
+   "headline": "Man United draw 1-1 with Fulham amid performance criticism",
+   "summary": "Manchester United drew 1-1 with Fulham on Sunday with late Matheus Cunha equaliser. Gary Neville criticised the performance severely, calling a spell the worst in 50 years.",
+   "source": "Sky Sports",
+   "url": "",
    "published": "28 Sep",
-   "category": "injuries",
-   "tone": -2,
+   "category": "match",
+   "tone": -1,
    "is_rumour": false,
    "rumour_subject": "",
    "source_tier": 3,
    "people": [
-    "Patrick Dorgu",
-    "Bruno Fernandes"
+    "Michael Carrick",
+    "Gary Neville",
+    "Matheus Cunha"
+   ]
+  },
+  {
+   "headline": "JJ Gabriel wants to leave Manchester United for Chelsea",
+   "summary": "Teenage academy prospect JJ Gabriel has informed United he wants to leave, with Chelsea emerging as target club. Gabriel's family reportedly critical of United's standing.",
+   "source": "Goal.com",
+   "url": "",
+   "published": "27 Sep",
+   "category": "transfers",
+   "tone": -2,
+   "is_rumour": false,
+   "rumour_subject": "JJ Gabriel",
+   "source_tier": 3,
+   "people": [
+    "JJ Gabriel"
+   ]
+  },
+  {
+   "headline": "United sign academy prospect Isaac Konde from Liverpool",
+   "summary": "Manchester United completed signing of teenage academy forward Isaac Konde from Liverpool youth ranks.",
+   "source": "Wikipedia/Official records",
+   "url": "",
+   "published": "28 Sep",
+   "category": "transfers",
+   "tone": 0,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 2,
+   "people": [
+    "Isaac Konde"
+   ]
+  },
+  {
+   "headline": "United raid Man City for second wonderkid in one week",
+   "summary": "Manchester United confirmed signing of second academy prospect from Manchester City in seven days, following David Eze joining after Karim Cassim.",
+   "source": "Bleacher Report",
+   "url": "",
+   "published": "26 Sep",
+   "category": "transfers",
+   "tone": 1,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 3,
+   "people": [
+    "David Eze",
+    "Karim Cassim"
+   ]
+  },
+  {
+   "headline": "Benjamin Sesko misses Fulham match with recurring shin problem",
+   "summary": "Manchester United striker Benjamin Sesko absent from Fulham game due to persistent shin injury. Manager Michael Carrick expressed concern over player's availability.",
+   "source": "Goal.com",
+   "url": "",
+   "published": "28 Sep",
+   "category": "team news",
+   "tone": -1,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 3,
+   "people": [
+    "Benjamin Sesko",
+    "Michael Carrick"
    ]
   }
  ]
