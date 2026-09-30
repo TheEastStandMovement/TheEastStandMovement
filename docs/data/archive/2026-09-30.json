@@ -1,78 +1,101 @@
 {
- "collected": "2026-09-30T13:06+00:00",
+ "collected": "2026-09-30T21:35+00:00",
  "items": [
   {
-   "headline": "Bruno Fernandes ruled out of Portugal Nations League with complicated injury",
-   "summary": "Manchester United captain Bruno Fernandes withdrawn from Portugal squad during international break with significant injury concerns.",
-   "source": "Goal.com",
-   "url": "",
-   "published": "29 Sep",
-   "category": "team news",
-   "tone": -1,
-   "is_rumour": false,
-   "rumour_subject": "",
-   "source_tier": 3,
-   "people": [
-    "Bruno Fernandes"
-   ]
-  },
-  {
-   "headline": "Patrick Dorgu withdrawn from Denmark squad with hamstring injury",
-   "summary": "Winger Patrick Dorgu limped off during Denmark's Nations League match and was withdrawn entirely from squad.",
-   "source": "Goal.com",
-   "url": "",
-   "published": "29 Sep",
-   "category": "team news",
-   "tone": -1,
-   "is_rumour": false,
-   "rumour_subject": "",
-   "source_tier": 3,
-   "people": [
-    "Patrick Dorgu"
-   ]
-  },
-  {
-   "headline": "Noussair Mazraoui forced off with injury during Morocco match",
-   "summary": "Defender Mazraoui landed awkwardly winning the ball and was replaced by Achraf Hakimi after 69 minutes.",
-   "source": "Sky Sports",
-   "url": "",
-   "published": "30 Sep",
-   "category": "team news",
-   "tone": -1,
-   "is_rumour": false,
-   "rumour_subject": "",
-   "source_tier": 2,
-   "people": [
-    "Noussair Mazraoui"
-   ]
-  },
-  {
-   "headline": "Carlos Baleba training at Carrington as recovery progresses",
-   "summary": "New signing continues comeback from injury, pictured in gym and on grass at Carrington training facility.",
-   "source": "Manchester United Official",
-   "url": "https://www.manutd.com/en/news",
-   "published": "29 Sep",
-   "category": "team news",
-   "tone": 1,
+   "headline": "Manchester United sign second wonderkid from Manchester City this week",
+   "summary": "16-year-old midfielder David Eze completed transfer from Manchester City on September 26, following Karim Cassim's arrival on September 24.",
+   "source": "Goal.com / Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Manchester_United_F.C._season",
+   "published": "26 Sep",
+   "category": "transfers",
+   "tone": 2,
    "is_rumour": false,
    "rumour_subject": "",
    "source_tier": 1,
    "people": [
-    "Carlos Baleba"
+    "David Eze",
+    "Karim Cassim"
    ]
   },
   {
-   "headline": "Carrick preparing for League Cup third round vs Brighton",
-   "summary": "Manager has selection decisions to make for Carabao Cup clash at home to Brighton & Hove Albion on Wednesday.",
-   "source": "Manchester United Official",
-   "url": "https://www.manutd.com/en/news",
-   "published": "30 Sep",
-   "category": "match",
+   "headline": "Bruno Fernandes carries 'complicated injury' from Portugal duty",
+   "summary": "Manchester United captain suffered injury in Portugal vs Wales match and ruled out of remaining Nations League fixtures, raising fitness concerns.",
+   "source": "Goal.com",
+   "url": "https://goal.com/en-ke/team/manchester-united/news/6eqit8ye8aomdsrrq0hk3v7gh",
+   "published": "29 Sep",
+   "category": "team news",
+   "tone": -2,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 3,
+   "people": [
+    "Bruno Fernandes",
+    "Michael Carrick"
+   ]
+  },
+  {
+   "headline": "Patrick Dorgu returns from Denmark duty with hamstring injury",
+   "summary": "Manchester United midfielder suffered hamstring injury during Denmark's Nations League fixture, adding to mounting injury crisis.",
+   "source": "Yahoo Sports / Goal.com",
+   "url": "https://goal.com/en-ke/team/manchester-united/news/6eqit8ye8aomdsrrq0hk3v7gh",
+   "published": "28 Sep",
+   "category": "team news",
+   "tone": -2,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 3,
+   "people": [
+    "Patrick Dorgu",
+    "Michael Carrick"
+   ]
+  },
+  {
+   "headline": "Manchester United scouting Club Brugge defender as Luke Shaw successor",
+   "summary": "Manager Michael Carrick identified Joaquin Seys as transfer target to replace Luke Shaw in defensive refresh planned for next year.",
+   "source": "Goal.com",
+   "url": "https://goal.com/en-ke/team/manchester-united/news/6eqit8ye8aomdsrrq0hk3v7gh",
+   "published": "28 Sep",
+   "category": "transfers",
    "tone": 0,
+   "is_rumour": true,
+   "rumour_subject": "Joaquin Seys",
+   "source_tier": 3,
+   "people": [
+    "Michael Carrick",
+    "Luke Shaw"
+   ]
+  },
+  {
+   "headline": "Manchester United sign striker Isaac Konde from Liverpool",
+   "summary": "Manchester United completed signing of England forward Isaac Konde from Liverpool on September 28 on undisclosed terms.",
+   "source": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Manchester_United_F.C._season",
+   "published": "28 Sep",
+   "category": "transfers",
+   "tone": 2,
    "is_rumour": false,
    "rumour_subject": "",
    "source_tier": 1,
    "people": [
+    "Isaac Konde"
+   ]
+  },
+  {
+   "headline": "Multiple injuries plague Manchester United during international break",
+   "summary": "Six injury concerns during international break including Kobbie Mainoo, Marcus Rashford, and Noussair Mazraoui holding his back.",
+   "source": "Yahoo Sports",
+   "url": "https://sports.yahoo.com/articles/manchester-united-rocked-sixth-injury-120000952.html",
+   "published": "29 Sep",
+   "category": "team news",
+   "tone": -2,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 3,
+   "people": [
+    "Kobbie Mainoo",
+    "Marcus Rashford",
+    "Noussair Mazraoui",
+    "Benjamin Sesko",
     "Michael Carrick"
    ]
   }
