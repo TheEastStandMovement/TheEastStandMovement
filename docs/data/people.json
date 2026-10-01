@@ -4,12 +4,12 @@
  "board": [
   {
    "name": "Michael Carrick",
-   "count": 51,
+   "count": 52,
    "last": "2026-10-01"
   },
   {
    "name": "Bruno Fernandes",
-   "count": 16,
+   "count": 17,
    "last": "2026-10-01"
   },
   {
@@ -23,14 +23,14 @@
    "last": "2026-09-30"
   },
   {
+   "name": "Patrick Dorgu",
+   "count": 12,
+   "last": "2026-10-01"
+  },
+  {
    "name": "JJ Gabriel",
    "count": 11,
    "last": "2026-09-29"
-  },
-  {
-   "name": "Patrick Dorgu",
-   "count": 11,
-   "last": "2026-10-01"
   },
   {
    "name": "Karim Cassim",
@@ -44,6 +44,11 @@
   },
   {
    "name": "Isaac Konde",
+   "count": 4,
+   "last": "2026-10-01"
+  },
+  {
+   "name": "Noussair Mazraoui",
    "count": 4,
    "last": "2026-10-01"
   },
@@ -71,11 +76,6 @@
    "name": "Kobbie Mainoo",
    "count": 3,
    "last": "2026-09-30"
-  },
-  {
-   "name": "Louie Bradbury",
-   "count": 3,
-   "last": "2026-09-06"
   }
  ]
 }

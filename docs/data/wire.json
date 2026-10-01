@@ -1,58 +1,28 @@
 {
- "collected": "2026-10-01T13:59+00:00",
+ "collected": "2026-10-01T22:04+00:00",
  "items": [
   {
-   "headline": "Manchester United sign Liverpool youngster Isaac Konde",
-   "summary": "Manchester United announce signing of 16-year-old winger Isaac Konde from Liverpool. Konde featured regularly for Liverpool's under-18.",
+   "headline": "Chris Smalling joins Porto on free transfer after leaving Saudi Arabia",
+   "summary": "Former Manchester United defender Chris Smalling, 36, has completed a move to Porto on a free transfer after leaving Saudi Pro League side Al-Fayha.",
    "source": "Sky Sports",
-   "url": "https://skysports.com/manchester-united-transfers",
-   "published": "Sep 28",
+   "url": "https://www.skysports.com/manchester-united-transfers",
+   "published": "1 Oct",
    "category": "transfers",
-   "tone": 1,
-   "is_rumour": false,
-   "rumour_subject": "",
-   "source_tier": 3,
-   "people": [
-    "Isaac Konde"
-   ]
-  },
-  {
-   "headline": "Patrick Dorgu returns to Manchester with thigh injury from Denmark duty",
-   "summary": "Patrick Dorgu withdrawn from Denmark squad after sustaining thigh injury in Nations League match against Wales. Returning to club for assessment.",
-   "source": "Sky Sports",
-   "url": "https://skysports.com/manchester-united-transfers",
-   "published": "Sep 28",
-   "category": "injuries",
-   "tone": -1,
-   "is_rumour": false,
-   "rumour_subject": "",
-   "source_tier": 3,
-   "people": [
-    "Patrick Dorgu"
-   ]
-  },
-  {
-   "headline": "Bruno Fernandes remains with Portugal squad despite fitness doubts",
-   "summary": "Manchester United captain Bruno Fernandes omitted from Norway match as precaution but stays with Portugal. Expected to return for Thursday fixture.",
-   "source": "Sky Sports",
-   "url": "https://skysports.com/manchester-united-transfers",
-   "published": "Sep 28",
-   "category": "team news",
    "tone": 0,
    "is_rumour": false,
    "rumour_subject": "",
-   "source_tier": 3,
+   "source_tier": 2,
    "people": [
-    "Bruno Fernandes"
+    "Chris Smalling"
    ]
   },
   {
-   "headline": "Noussair Mazraoui forced off during Morocco international match",
-   "summary": "Noussair Mazraoui withdrawn in 69th minute after apparent injury landing awkwardly while winning ball during Morocco's 2-0 win over Lesotho.",
-   "source": "Sky Sports",
-   "url": "https://skysports.com/manchester-united-transfers",
-   "published": "Sep 29",
-   "category": "injuries",
+   "headline": "Noussair Mazraoui substituted with injury during Morocco's 2-0 win over Lesotho",
+   "summary": "Manchester United full-back Mazraoui was forced off with an apparent injury during Morocco's Africa Cup of Nations qualifier on Tuesday evening.",
+   "source": "Evening Standard",
+   "url": "",
+   "published": "30 Sep",
+   "category": "team news",
    "tone": -1,
    "is_rumour": false,
    "rumour_subject": "",
@@ -62,18 +32,47 @@
    ]
   },
   {
-   "headline": "Matthijs de Ligt still sidelined by back injury, imminent return expected",
-   "summary": "Dutch centre-back has been out for almost 10 months with ongoing back injury. Yet to feature under Michael Carrick but expected return before Christmas.",
-   "source": "Last Word on Sports",
-   "url": "https://lastwordonsports.com/football/2026/09/29/manchester-united-injury",
-   "published": "Sep 29",
-   "category": "injuries",
+   "headline": "Bruno Fernandes ruled out of Portugal fixture with injury that has plagued him for weeks",
+   "summary": "Manchester United captain Bruno Fernandes omitted from Portugal squad for Nations League match with significant injury concerns raised about medical management decisions.",
+   "source": "Evening Standard",
+   "url": "",
+   "published": "30 Sep",
+   "category": "team news",
    "tone": -1,
    "is_rumour": false,
    "rumour_subject": "",
    "source_tier": 3,
    "people": [
-    "Matthijs de Ligt",
+    "Bruno Fernandes"
+   ]
+  },
+  {
+   "headline": "Patrick Dorgu returns to Old Trafford early with hamstring injury from Denmark duty",
+   "summary": "Midfielder Patrick Dorgu limped out of Denmark's Nations League match against Wales with hamstring injury and has returned to Manchester United for medical assessment.",
+   "source": "Evening Standard",
+   "url": "",
+   "published": "29 Sep",
+   "category": "team news",
+   "tone": -1,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 3,
+   "people": [
+    "Patrick Dorgu"
+   ]
+  },
+  {
+   "headline": "Michael Carrick arranges behind-closed-doors friendly during international break",
+   "summary": "Manchester United manager Michael Carrick has organised a secret friendly match with fellow INEOS-owned club to address poor form before Premier League returns.",
+   "source": "Goal.com",
+   "url": "",
+   "published": "29 Sep",
+   "category": "club",
+   "tone": 0,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 3,
+   "people": [
     "Michael Carrick"
    ]
   }

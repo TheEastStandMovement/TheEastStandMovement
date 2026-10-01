@@ -234,7 +234,7 @@
   "last_seen": "2026-09-25",
   "mentions": 1,
   "best_tier": 3,
-  "temperature": 0.1,
+  "temperature": 0.0,
   "sources": [
    "TEAMtalk"
   ],
@@ -246,7 +246,7 @@
   "last_seen": "2026-09-26",
   "mentions": 1,
   "best_tier": 3,
-  "temperature": 0.5,
+  "temperature": 0.3,
   "sources": [
    "Football Transfers"
   ],
@@ -258,7 +258,7 @@
   "last_seen": "2026-09-28",
   "mentions": 1,
   "best_tier": 3,
-  "temperature": 3.8,
+  "temperature": 2.6,
   "sources": [
    "ESPN"
   ],
@@ -270,7 +270,7 @@
   "last_seen": "2026-09-30",
   "mentions": 1,
   "best_tier": 3,
-  "temperature": 10.6,
+  "temperature": 9.3,
   "sources": [
    "Goal.com"
   ],
