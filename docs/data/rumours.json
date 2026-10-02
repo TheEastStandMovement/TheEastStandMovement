@@ -212,7 +212,8 @@
   "sources": [
    "FotMob"
   ],
-  "status": "live"
+  "status": "cold",
+  "lifespan_days": 0
  },
  "jj-gabriel": {
   "subject": "JJ Gabriel",
@@ -246,7 +247,7 @@
   "last_seen": "2026-09-26",
   "mentions": 1,
   "best_tier": 3,
-  "temperature": 0.3,
+  "temperature": 0.1,
   "sources": [
    "Football Transfers"
   ],
@@ -258,7 +259,7 @@
   "last_seen": "2026-09-28",
   "mentions": 1,
   "best_tier": 3,
-  "temperature": 2.6,
+  "temperature": 1.6,
   "sources": [
    "ESPN"
   ],
@@ -270,9 +271,33 @@
   "last_seen": "2026-09-30",
   "mentions": 1,
   "best_tier": 3,
-  "temperature": 9.3,
+  "temperature": 7.2,
   "sources": [
    "Goal.com"
+  ],
+  "status": "live"
+ },
+ "david-raum": {
+  "subject": "David Raum",
+  "first_seen": "2026-10-02",
+  "last_seen": "2026-10-02",
+  "mentions": 1,
+  "best_tier": 3,
+  "temperature": 12.0,
+  "sources": [
+   "The Week"
+  ],
+  "status": "live"
+ },
+ "charalampos-kostoulas": {
+  "subject": "Charalampos Kostoulas",
+  "first_seen": "2026-10-02",
+  "last_seen": "2026-10-02",
+  "mentions": 1,
+  "best_tier": 4,
+  "temperature": 5.0,
+  "sources": [
+   "The Hard Tackle"
   ],
   "status": "live"
  }
