@@ -1,44 +1,30 @@
 {
- "collected": "2026-10-02T13:17+00:00",
+ "collected": "2026-10-02T21:29+00:00",
  "items": [
   {
-   "headline": "Chris Smalling confirmed as Porto signing",
-   "summary": "Ex-Manchester United centre-back Chris Smalling, 36, has completed a free transfer to Porto.",
+   "headline": "Baleba completes first match minutes in behind-closed-doors friendly",
+   "summary": "Carlos Baleba played his first minutes for Manchester United in a behind-closed-doors match vs Lausanne-Sport on Friday after recovering from ankle injury.",
    "source": "Sky Sports",
    "url": "https://www.skysports.com/manchester-united-transfers",
-   "published": "01 Oct",
-   "category": "transfers",
-   "tone": 0,
-   "is_rumour": false,
-   "rumour_subject": "",
-   "source_tier": 2,
-   "people": [
-    "Chris Smalling"
-   ]
-  },
-  {
-   "headline": "Isaac Konde joins United from Liverpool academy",
-   "summary": "Manchester United sign 16-year-old winger Isaac Konde from Liverpool for the U18s on a five-year agreement.",
-   "source": "LiveScore",
-   "url": "https://livescore.com/en/news/football/team/manchester-united/daily/wednesday-manchester-united-daily-news-20260930",
-   "published": "30 Sep",
+   "published": "2 Oct",
    "category": "team news",
    "tone": 1,
    "is_rumour": false,
    "rumour_subject": "",
    "source_tier": 3,
    "people": [
-    "Isaac Konde"
+    "Carlos Baleba",
+    "Michael Carrick"
    ]
   },
   {
-   "headline": "Bruno Fernandes trains fully with Portugal after injury scare",
-   "summary": "Bruno Fernandes trained fully with Portugal before Denmark after missing Wales match with a 'complicated' issue.",
-   "source": "LiveScore",
-   "url": "https://livescore.com/en/news/football/team/manchester-united/daily/wednesday-manchester-united-daily-news-20260930",
-   "published": "30 Sep",
-   "category": "team news",
-   "tone": 1,
+   "headline": "Bruno Fernandes injury: United concerned about captain's pain during international break",
+   "summary": "Bruno Fernandes has been playing through significant pain for weeks and missed Portugal's Nations League match, raising concerns of long-term injury.",
+   "source": "Goal",
+   "url": "https://www.goal.com/en/team/manchester-united/news/6eqit8ye8aomdsrrq0hk3v7gh",
+   "published": "1 Oct",
+   "category": "injuries",
+   "tone": -2,
    "is_rumour": false,
    "rumour_subject": "",
    "source_tier": 3,
@@ -47,48 +33,35 @@
    ]
   },
   {
-   "headline": "Mazraoui injury concern from Morocco duties",
-   "summary": "Noussair Mazraoui went off during Morocco's 2-0 win over Lesotho, forcing Manchester United to monitor his condition.",
-   "source": "LiveScore",
-   "url": "https://livescore.com/en/news/football/team/manchester-united/daily/wednesday-manchester-united-daily-news-20260930",
-   "published": "30 Sep",
-   "category": "team news",
+   "headline": "Dorgu suffers injury during Denmark international duty",
+   "summary": "Patrick Dorgu withdrawn early from Denmark Nations League fixture with injury, adding to United medical concerns ahead of crucial fixture schedule.",
+   "source": "Goal",
+   "url": "https://www.goal.com/en/team/manchester-united/news/6eqit8ye8aomdsrrq0hk3v7gh",
+   "published": "1 Oct",
+   "category": "injuries",
    "tone": -1,
    "is_rumour": false,
    "rumour_subject": "",
    "source_tier": 3,
    "people": [
-    "Noussair Mazraoui"
+    "Patrick Dorgu",
+    "Michael Carrick"
    ]
   },
   {
-   "headline": "Manchester United monitoring David Raum for January transfer",
-   "summary": "RB Leipzig captain David Raum is likely target for January with contract situation making move feasible.",
+   "headline": "Manchester United target RB Leipzig's David Raum for January left-back move",
+   "summary": "United reportedly nearing agreement with RB Leipzig captain David Raum, with release clause making January transfer likely as short-term Luke Shaw cover.",
    "source": "The Week",
    "url": "https://www.theweek.in/news/sports/2026/10/02/manchester-united-transfers-david-raum-in-january-left-back-lewis-hall-report.html",
-   "published": "02 Oct",
+   "published": "2 Oct",
    "category": "transfers",
    "tone": 0,
    "is_rumour": true,
    "rumour_subject": "David Raum",
-   "source_tier": 3,
-   "people": [
-    "David Raum"
-   ]
-  },
-  {
-   "headline": "Arsenal, Chelsea monitoring Brighton striker Kostoulas",
-   "summary": "Manchester United among clubs monitoring Brighton's Charalampos Kostoulas after his strong start to 2026/27.",
-   "source": "The Hard Tackle",
-   "url": "https://thehardtackle.com/transfer-news/2026/10/02/arsenal-chelsea-manchester-united-keen-on-signing-charalampos-kostoulas/",
-   "published": "02 Oct",
-   "category": "transfers",
-   "tone": 0,
-   "is_rumour": true,
-   "rumour_subject": "Charalampos Kostoulas",
    "source_tier": 4,
    "people": [
-    "Charalampos Kostoulas"
+    "David Raum",
+    "Luke Shaw"
    ]
   }
  ]
