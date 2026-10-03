@@ -1,20 +1,15 @@
 {
  "window_days": 30,
- "updated": "2026-10-02",
+ "updated": "2026-10-03",
  "board": [
   {
    "name": "Michael Carrick",
    "count": 52,
-   "last": "2026-10-02"
+   "last": "2026-10-03"
   },
   {
    "name": "Bruno Fernandes",
-   "count": 17,
-   "last": "2026-10-02"
-  },
-  {
-   "name": "Carlos Baleba",
-   "count": 13,
+   "count": 15,
    "last": "2026-10-02"
   },
   {
@@ -26,6 +21,11 @@
    "name": "Benjamin Sesko",
    "count": 12,
    "last": "2026-09-30"
+  },
+  {
+   "name": "Carlos Baleba",
+   "count": 12,
+   "last": "2026-10-03"
   },
   {
    "name": "JJ Gabriel",
@@ -58,11 +58,6 @@
    "last": "2026-09-30"
   },
   {
-   "name": "Andrey Santos",
-   "count": 3,
-   "last": "2026-09-10"
-  },
-  {
    "name": "Bryan Mbeumo",
    "count": 3,
    "last": "2026-09-15"
@@ -71,6 +66,11 @@
    "name": "David Eze",
    "count": 3,
    "last": "2026-09-30"
+  },
+  {
+   "name": "David Raum",
+   "count": 3,
+   "last": "2026-10-03"
   },
   {
    "name": "Kobbie Mainoo",
