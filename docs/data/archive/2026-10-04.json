@@ -1,66 +1,46 @@
 {
- "collected": "2026-10-04T12:54+00:00",
+ "collected": "2026-10-04T20:33+00:00",
  "items": [
   {
-   "headline": "Mazraoui forced off in Morocco win amid mounting injury crisis",
-   "summary": "Noussair Mazraoui became Manchester United's latest injury casualty during the international break after being withdrawn from Morocco's Africa Cup of Nations qualifier against Lesotho.",
-   "source": "Sports Illustrated",
-   "url": "https://www.si.com/soccer/every-man-utd-injury-fall-2026-international-break",
-   "published": "Oct 1",
+   "headline": "Carlos Baleba makes first United appearance in behind-closed-doors friendly",
+   "summary": "Summer signing Baleba played his opening minutes for United in friendly vs Lausanne-Sport on Friday after recovering from ankle injury sustained at Brighton.",
+   "source": "Sky Sports",
+   "url": "",
+   "published": "02 Oct",
    "category": "team news",
-   "tone": -2,
+   "tone": 1,
    "is_rumour": false,
    "rumour_subject": "",
    "source_tier": 3,
    "people": [
-    "Noussair Mazraoui"
+    "Carlos Baleba"
    ]
   },
   {
-   "headline": "Man United injury tally reaches 11 players during international break",
-   "summary": "With Mazraoui's withdrawal, Manchester United now has 11 players sidelined, including Amad Diallo, Matthijs de Ligt, Manuel Ugarte, Patrick Dorgu, Marcus Rashford, Kobbie Mainoo and Benjamin Seško.",
-   "source": "Sports Illustrated",
-   "url": "https://www.si.com/soccer/every-man-utd-injury-fall-2026-international-break",
-   "published": "Oct 1",
+   "headline": "Bruno Fernandes and Patrick Dorgu sidelined by injuries during international break",
+   "summary": "Captain Fernandes withdrawn from Portugal duty after playing through pain; Dorgu removed from Denmark squad with ankle problem, clouding United's preparations for Tottenham.",
+   "source": "Goal.com",
+   "url": "",
+   "published": "01 Oct",
    "category": "team news",
    "tone": -2,
    "is_rumour": false,
    "rumour_subject": "",
    "source_tier": 3,
    "people": [
-    "Amad Diallo",
-    "Matthijs de Ligt",
-    "Manuel Ugarte",
-    "Patrick Dorgu",
-    "Marcus Rashford",
-    "Kobbie Mainoo",
-    "Benjamin Seško"
-   ]
-  },
-  {
-   "headline": "Dorgu hamstring concern forces Denmark withdrawal",
-   "summary": "Patrick Dorgu lasted only 30 minutes in Denmark's clash with Wales before suffering a suspected hamstring injury and being sent home from international duty.",
-   "source": "Sports Illustrated",
-   "url": "https://www.si.com/soccer/every-man-utd-injury-fall-2026-international-break",
-   "published": "Oct 1",
-   "category": "team news",
-   "tone": -2,
-   "is_rumour": false,
-   "rumour_subject": "",
-   "source_tier": 3,
-   "people": [
+    "Bruno Fernandes",
     "Patrick Dorgu"
    ]
   },
   {
-   "headline": "Man United pursue legal action over JJ Gabriel exit",
-   "summary": "Manchester United are weighing possible action after academy product JJ Gabriel departed the club, with Real Madrid and Bayern Munich among interested suitors.",
-   "source": "TEAMtalk",
-   "url": "https://www.teamtalk.com/manchester-united",
-   "published": "Oct 3",
-   "category": "club",
+   "headline": "Manchester United consider legal action if JJ Gabriel departs for elite European club",
+   "summary": "Club weighing response to academy prospect Gabriel's potential exit, with Bayern Munich, Barcelona and Real Madrid reportedly interested in 19-year-old talent.",
+   "source": "Sky Sports",
+   "url": "",
+   "published": "03 Oct",
+   "category": "transfers",
    "tone": -1,
-   "is_rumour": false,
+   "is_rumour": true,
    "rumour_subject": "JJ Gabriel",
    "source_tier": 3,
    "people": [
@@ -68,18 +48,34 @@
    ]
   },
   {
-   "headline": "Barcelona open to January exit as Man United explore left-back deal",
-   "summary": "Barcelona have warmed to a potential exit for left-back Alejandro Balde, with Manchester United and Liverpool both exploring a loan move in January.",
-   "source": "TEAMtalk",
-   "url": "https://www.teamtalk.com/manchester-united",
-   "published": "Oct 3",
+   "headline": "David Raum linked with January move as left-back target",
+   "summary": "RB Leipzig captain reportedly open to Premier League move; United pursuing the 28-year-old German as cover for injury-prone Luke Shaw with release clause mechanism.",
+   "source": "The Week",
+   "url": "",
+   "published": "02 Oct",
    "category": "transfers",
-   "tone": 1,
+   "tone": 0,
    "is_rumour": true,
-   "rumour_subject": "Alejandro Balde",
+   "rumour_subject": "David Raum",
    "source_tier": 3,
    "people": [
-    "Alejandro Balde"
+    "David Raum",
+    "Luke Shaw"
+   ]
+  },
+  {
+   "headline": "Manchester United planning defensive overhaul for 2027 amid early season concerns",
+   "summary": "Michael Carrick voiced concerns about centre-back options; club stepping up efforts to reinforce backline next summer following slow Premier League start.",
+   "source": "Football Insider",
+   "url": "",
+   "published": "04 Oct",
+   "category": "club",
+   "tone": 0,
+   "is_rumour": false,
+   "rumour_subject": "",
+   "source_tier": 2,
+   "people": [
+    "Michael Carrick"
    ]
   }
  ]

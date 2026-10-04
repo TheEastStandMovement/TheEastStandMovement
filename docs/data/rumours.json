@@ -218,14 +218,15 @@
  "jj-gabriel": {
   "subject": "JJ Gabriel",
   "first_seen": "2026-09-18",
-  "last_seen": "2026-09-20",
-  "mentions": 5,
+  "last_seen": "2026-10-04",
+  "mentions": 6,
   "best_tier": 3,
-  "temperature": 0.0,
+  "temperature": 12.0,
   "sources": [
    "Manchester Evening News",
    "The Mirror",
-   "Yahoo Sports"
+   "Yahoo Sports",
+   "Sky Sports"
   ],
   "status": "live"
  },
@@ -259,7 +260,7 @@
   "last_seen": "2026-09-28",
   "mentions": 1,
   "best_tier": 3,
-  "temperature": 0.2,
+  "temperature": 0.1,
   "sources": [
    "ESPN"
   ],
@@ -271,7 +272,7 @@
   "last_seen": "2026-09-30",
   "mentions": 1,
   "best_tier": 3,
-  "temperature": 2.3,
+  "temperature": 1.4,
   "sources": [
    "Goal.com"
   ],
@@ -280,10 +281,10 @@
  "david-raum": {
   "subject": "David Raum",
   "first_seen": "2026-10-02",
-  "last_seen": "2026-10-03",
-  "mentions": 3,
+  "last_seen": "2026-10-04",
+  "mentions": 4,
   "best_tier": 3,
-  "temperature": 23.8,
+  "temperature": 32.9,
   "sources": [
    "The Week",
    "TEAMtalk"
@@ -296,7 +297,7 @@
   "last_seen": "2026-10-02",
   "mentions": 1,
   "best_tier": 4,
-  "temperature": 3.4,
+  "temperature": 2.6,
   "sources": [
    "The Hard Tackle"
   ],
