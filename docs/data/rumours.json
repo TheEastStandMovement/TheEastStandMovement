@@ -259,7 +259,7 @@
   "last_seen": "2026-09-28",
   "mentions": 1,
   "best_tier": 3,
-  "temperature": 0.5,
+  "temperature": 0.2,
   "sources": [
    "ESPN"
   ],
@@ -271,7 +271,7 @@
   "last_seen": "2026-09-30",
   "mentions": 1,
   "best_tier": 3,
-  "temperature": 3.8,
+  "temperature": 2.3,
   "sources": [
    "Goal.com"
   ],
@@ -283,7 +283,7 @@
   "last_seen": "2026-10-03",
   "mentions": 3,
   "best_tier": 3,
-  "temperature": 27.0,
+  "temperature": 23.8,
   "sources": [
    "The Week",
    "TEAMtalk"
@@ -296,9 +296,21 @@
   "last_seen": "2026-10-02",
   "mentions": 1,
   "best_tier": 4,
-  "temperature": 4.4,
+  "temperature": 3.4,
   "sources": [
    "The Hard Tackle"
+  ],
+  "status": "live"
+ },
+ "alejandro-balde": {
+  "subject": "Alejandro Balde",
+  "first_seen": "2026-10-04",
+  "last_seen": "2026-10-04",
+  "mentions": 1,
+  "best_tier": 3,
+  "temperature": 12.0,
+  "sources": [
+   "TEAMtalk"
   ],
   "status": "live"
  }

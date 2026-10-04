@@ -1,6 +1,6 @@
 {
  "window_days": 30,
- "updated": "2026-10-03",
+ "updated": "2026-10-04",
  "board": [
   {
    "name": "Michael Carrick",
@@ -14,8 +14,8 @@
   },
   {
    "name": "Patrick Dorgu",
-   "count": 13,
-   "last": "2026-10-02"
+   "count": 15,
+   "last": "2026-10-04"
   },
   {
    "name": "Benjamin Sesko",
@@ -29,8 +29,13 @@
   },
   {
    "name": "JJ Gabriel",
-   "count": 11,
-   "last": "2026-09-29"
+   "count": 12,
+   "last": "2026-10-04"
+  },
+  {
+   "name": "Noussair Mazraoui",
+   "count": 6,
+   "last": "2026-10-04"
   },
   {
    "name": "Isaac Konde",
@@ -41,11 +46,6 @@
    "name": "Karim Cassim",
    "count": 5,
    "last": "2026-09-30"
-  },
-  {
-   "name": "Noussair Mazraoui",
-   "count": 5,
-   "last": "2026-10-02"
   },
   {
    "name": "Luke Shaw",
