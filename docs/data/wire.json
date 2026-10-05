@@ -1,67 +1,54 @@
 {
- "collected": "2026-10-05T15:21+00:00",
+ "collected": "2026-10-05T23:24+00:00",
  "items": [
   {
-   "headline": "Baleba makes first appearance in behind-closed-doors friendly",
-   "summary": "Carlos Baleba played his first minutes for Manchester United in a behind-closed-doors match against Lausanne-Sport on Friday as he recovers from an ankle injury.",
+   "headline": "Baleba returns in behind-closed-doors friendly as recovery progresses",
+   "summary": "Carlos Baleba played his first minutes for Manchester United in a behind-closed-doors match against Lausanne-Sport, continuing recovery from ankle injury ahead of Tottenham trip.",
    "source": "Sky Sports",
    "url": "https://www.skysports.com/manchester-united-transfers",
-   "published": "2 Oct",
+   "published": "02 Oct",
    "category": "team news",
    "tone": 1,
    "is_rumour": false,
    "rumour_subject": "",
-   "source_tier": 3,
+   "source_tier": 2,
    "people": [
-    "Carlos Baleba",
-    "Michael Carrick"
+    "Carlos Baleba"
    ]
   },
   {
-   "headline": "Man Utd threaten legal action over JJ Gabriel departure",
-   "summary": "Manchester United prepared to take legal action if 15-year-old academy sensation JJ Gabriel completes a transfer away from the club after he requested de-registration.",
-   "source": "Football Transfers",
-   "url": "https://footballtransfers.com/en/transfer-news/uk-premier-league/2026/10/man-utd-transfer-news-jj-gabriel-legal-action",
-   "published": "3 Oct",
-   "category": "club",
+   "headline": "De Ligt returns as Carrick prepares for Tottenham without Rashford and Mainoo",
+   "summary": "Matthijs de Ligt returned in friendly; Marcus Rashford, Kobbie Mainoo, Patrick Dorgu and Noussair Mazraoui remain concerns ahead of October 10 Tottenham match.",
+   "source": "LiveScore Daily News",
+   "url": "https://livescore.com/en/news/football/team/manchester-united/daily/monday-manchester-united-daily-news-20261005",
+   "published": "05 Oct",
+   "category": "team news",
    "tone": -1,
    "is_rumour": false,
    "rumour_subject": "",
    "source_tier": 3,
    "people": [
-    "JJ Gabriel"
+    "Matthijs de Ligt",
+    "Marcus Rashford",
+    "Kobbie Mainoo",
+    "Patrick Dorgu",
+    "Noussair Mazraoui",
+    "Michael Carrick"
    ]
   },
   {
-   "headline": "AC Milan targets Leny Yoro in potential €62m deal",
-   "summary": "AC Milan manager Ruben Amorim targets centre-back Leny Yoro, who has had a difficult two years at Old Trafford since his €62m move from Lille.",
-   "source": "Football Transfers",
-   "url": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/10/man-utd-transfer-news-ruben-amorim-leny-yoro-ac-milan",
-   "published": "5 Oct",
+   "headline": "United reportedly planning €70m January bid for Tottenham defender van de Ven",
+   "summary": "Manchester United preparing €70 million (£58m) offer for Tottenham centre-back Micky van de Ven in January transfer window, emerging as frontrunners.",
+   "source": "To The Lane And Back",
+   "url": "https://tothelaneandback.com/2026/10/06/manchester-united-lead-race-tottenham-micky-van-de-ven/",
+   "published": "05 Oct",
    "category": "transfers",
-   "tone": -1,
+   "tone": 1,
    "is_rumour": true,
-   "rumour_subject": "Leny Yoro",
+   "rumour_subject": "Micky van de Ven",
    "source_tier": 3,
    "people": [
-    "Leny Yoro",
-    "Ruben Amorim"
-   ]
-  },
-  {
-   "headline": "Adrien Truffert signals openness to Manchester United move",
-   "summary": "Bournemouth left-back Adrien Truffert confirms he is ready for a move, with Manchester United linked at around £60m as potential summer 2027 target.",
-   "source": "Football Transfers",
-   "url": "https://footballtransfers.com/en/transfer-news/uk-premier-league/2026/10/man-utd-transfer-news-adrien-truffert-confirms-hes-ready-for-move",
-   "published": "3 Oct",
-   "category": "transfers",
-   "tone": 0,
-   "is_rumour": true,
-   "rumour_subject": "Adrien Truffert",
-   "source_tier": 2,
-   "people": [
-    "Adrien Truffert",
-    "David Ornstein"
+    "Micky van de Ven"
    ]
   }
  ]
