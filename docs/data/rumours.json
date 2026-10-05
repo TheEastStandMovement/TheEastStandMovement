@@ -221,7 +221,7 @@
   "last_seen": "2026-10-04",
   "mentions": 6,
   "best_tier": 3,
-  "temperature": 12.0,
+  "temperature": 10.6,
   "sources": [
    "Manchester Evening News",
    "The Mirror",
@@ -260,7 +260,7 @@
   "last_seen": "2026-09-28",
   "mentions": 1,
   "best_tier": 3,
-  "temperature": 0.1,
+  "temperature": 0.0,
   "sources": [
    "ESPN"
   ],
@@ -272,7 +272,7 @@
   "last_seen": "2026-09-30",
   "mentions": 1,
   "best_tier": 3,
-  "temperature": 1.4,
+  "temperature": 0.7,
   "sources": [
    "Goal.com"
   ],
@@ -284,7 +284,7 @@
   "last_seen": "2026-10-04",
   "mentions": 4,
   "best_tier": 3,
-  "temperature": 32.9,
+  "temperature": 29.0,
   "sources": [
    "The Week",
    "TEAMtalk"
@@ -297,7 +297,7 @@
   "last_seen": "2026-10-02",
   "mentions": 1,
   "best_tier": 4,
-  "temperature": 2.6,
+  "temperature": 1.8,
   "sources": [
    "The Hard Tackle"
   ],
@@ -309,9 +309,33 @@
   "last_seen": "2026-10-04",
   "mentions": 1,
   "best_tier": 3,
-  "temperature": 12.0,
+  "temperature": 10.6,
   "sources": [
    "TEAMtalk"
+  ],
+  "status": "live"
+ },
+ "leny-yoro": {
+  "subject": "Leny Yoro",
+  "first_seen": "2026-10-05",
+  "last_seen": "2026-10-05",
+  "mentions": 1,
+  "best_tier": 3,
+  "temperature": 12.0,
+  "sources": [
+   "Football Transfers"
+  ],
+  "status": "live"
+ },
+ "adrien-truffert": {
+  "subject": "Adrien Truffert",
+  "first_seen": "2026-10-05",
+  "last_seen": "2026-10-05",
+  "mentions": 1,
+  "best_tier": 2,
+  "temperature": 25.0,
+  "sources": [
+   "Football Transfers"
   ],
   "status": "live"
  }
