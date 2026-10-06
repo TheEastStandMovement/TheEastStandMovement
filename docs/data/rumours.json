@@ -218,10 +218,10 @@
  "jj-gabriel": {
   "subject": "JJ Gabriel",
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-04",
-  "mentions": 6,
-  "best_tier": 3,
-  "temperature": 9.3,
+  "last_seen": "2026-10-06",
+  "mentions": 7,
+  "best_tier": 2,
+  "temperature": 32.2,
   "sources": [
    "Manchester Evening News",
    "The Mirror",
@@ -272,7 +272,7 @@
   "last_seen": "2026-09-30",
   "mentions": 1,
   "best_tier": 3,
-  "temperature": 0.4,
+  "temperature": 0.2,
   "sources": [
    "Goal.com"
   ],
@@ -284,7 +284,7 @@
   "last_seen": "2026-10-04",
   "mentions": 4,
   "best_tier": 3,
-  "temperature": 25.5,
+  "temperature": 19.7,
   "sources": [
    "The Week",
    "TEAMtalk"
@@ -297,7 +297,7 @@
   "last_seen": "2026-10-02",
   "mentions": 1,
   "best_tier": 4,
-  "temperature": 1.2,
+  "temperature": 0.7,
   "sources": [
    "The Hard Tackle"
   ],
@@ -309,7 +309,7 @@
   "last_seen": "2026-10-04",
   "mentions": 1,
   "best_tier": 3,
-  "temperature": 9.3,
+  "temperature": 7.2,
   "sources": [
    "TEAMtalk"
   ],
@@ -321,7 +321,7 @@
   "last_seen": "2026-10-05",
   "mentions": 1,
   "best_tier": 3,
-  "temperature": 12.0,
+  "temperature": 10.6,
   "sources": [
    "Football Transfers"
   ],
@@ -333,7 +333,7 @@
   "last_seen": "2026-10-05",
   "mentions": 1,
   "best_tier": 2,
-  "temperature": 25.0,
+  "temperature": 22.0,
   "sources": [
    "Football Transfers"
   ],
@@ -345,9 +345,21 @@
   "last_seen": "2026-10-05",
   "mentions": 1,
   "best_tier": 3,
-  "temperature": 12.0,
+  "temperature": 10.6,
   "sources": [
    "To The Lane And Back"
+  ],
+  "status": "live"
+ },
+ "igor-matanovic": {
+  "subject": "Igor Matanovic",
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "mentions": 1,
+  "best_tier": 3,
+  "temperature": 12.0,
+  "sources": [
+   "TEAMtalk"
   ],
   "status": "live"
  }
